@@ -1,0 +1,1500 @@
+id,year,state_name,state_code,district_name,district_code,region,population_group,no_of_offices,no_of_accounts,deposit_amount
+0,2022,Andaman and Nicobar Islands,35,North and Middle Andaman,632,Eastern Region,Rural,10,108,729
+1,2022,Andaman and Nicobar Islands,35,South Andamans,602,Eastern Region,Rural,13,106,775
+2,2022,Andaman and Nicobar Islands,35,South Andamans,602,Eastern Region,Semi-urban,10,64,463
+8,2022,Andhra Pradesh,28,Anantapur,502,Southern Region,Rural,160,2128,3306
+9,2022,Andhra Pradesh,28,Anantapur,502,Southern Region,Semi-urban,124,2549,6301
+10,2022,Andhra Pradesh,28,Anantapur,502,Southern Region,Urban,177,4624,12495
+11,2022,Andhra Pradesh,28,Chittoor,503,Southern Region,Rural,240,2678,10711
+12,2022,Andhra Pradesh,28,Chittoor,503,Southern Region,Semi-urban,162,2677,6937
+13,2022,Andhra Pradesh,28,Chittoor,503,Southern Region,Urban,207,2586,24021
+14,2022,Andhra Pradesh,28,East Godavari,505,Southern Region,Rural,258,3321,6661
+15,2022,Andhra Pradesh,28,East Godavari,505,Southern Region,Semi-urban,306,4058,10148
+16,2022,Andhra Pradesh,28,East Godavari,505,Southern Region,Urban,251,2786,19823
+17,2022,Andhra Pradesh,28,Guntur,506,Southern Region,Rural,285,2335,6445
+18,2022,Andhra Pradesh,28,Guntur,506,Southern Region,Semi-urban,239,3256,9685
+19,2022,Andhra Pradesh,28,Guntur,506,Southern Region,Urban,332,3726,26754
+20,2022,Andhra Pradesh,28,Krishna,510,Southern Region,Rural,230,2146,4997
+21,2022,Andhra Pradesh,28,Krishna,510,Southern Region,Semi-urban,239,2827,10649
+22,2022,Andhra Pradesh,28,Krishna,510,Southern Region,Urban,67,2638,4261
+23,2022,Andhra Pradesh,28,Krishna,510,Southern Region,Metropolitan,350,3288,38461
+24,2022,Andhra Pradesh,28,Kurnool,511,Southern Region,Rural,162,1759,2618
+25,2022,Andhra Pradesh,28,Kurnool,511,Southern Region,Semi-urban,119,2445,4925
+26,2022,Andhra Pradesh,28,Kurnool,511,Southern Region,Urban,193,4338,12238
+27,2022,Andhra Pradesh,28,Prakasam,517,Southern Region,Rural,199,2114,3921
+28,2022,Andhra Pradesh,28,Prakasam,517,Southern Region,Semi-urban,205,3160,8519
+29,2022,Andhra Pradesh,28,Prakasam,517,Southern Region,Urban,78,835,5133
+30,2022,Andhra Pradesh,28,Spsr Nellore,515,Southern Region,Rural,151,1521,2872
+31,2022,Andhra Pradesh,28,Spsr Nellore,515,Southern Region,Semi-urban,149,2296,5594
+32,2022,Andhra Pradesh,28,Spsr Nellore,515,Southern Region,Urban,128,1509,10586
+33,2022,Andhra Pradesh,28,Srikakulam,519,Southern Region,Rural,150,2090,3739
+34,2022,Andhra Pradesh,28,Srikakulam,519,Southern Region,Semi-urban,110,1740,4398
+35,2022,Andhra Pradesh,28,Srikakulam,519,Southern Region,Urban,61,657,3619
+36,2022,Andhra Pradesh,28,Visakhapatanam,520,Southern Region,Rural,153,2394,3894
+37,2022,Andhra Pradesh,28,Visakhapatanam,520,Southern Region,Semi-urban,111,1514,3924
+38,2022,Andhra Pradesh,28,Visakhapatanam,520,Southern Region,Metropolitan,528,5472,54393
+39,2022,Andhra Pradesh,28,Vizianagaram,521,Southern Region,Rural,139,1699,2796
+40,2022,Andhra Pradesh,28,Vizianagaram,521,Southern Region,Semi-urban,102,1376,3256
+41,2022,Andhra Pradesh,28,Vizianagaram,521,Southern Region,Urban,78,1159,4449
+42,2022,Andhra Pradesh,28,West Godavari,523,Southern Region,Rural,211,2189,5531
+43,2022,Andhra Pradesh,28,West Godavari,523,Southern Region,Semi-urban,274,3648,11118
+44,2022,Andhra Pradesh,28,West Godavari,523,Southern Region,Urban,151,1946,8909
+45,2022,Andhra Pradesh,28,Y.S.R.,504,Southern Region,Rural,134,1545,3489
+132,2022,Assam,18,Biswanath,705,North Eastern Region,Rural,28,538,749
+133,2022,Assam,18,Biswanath,705,North Eastern Region,Semi-urban,20,279,917
+134,2022,Assam,18,Bongaigaon,281,North Eastern Region,Rural,24,481,529
+135,2022,Assam,18,Bongaigaon,281,North Eastern Region,Semi-urban,35,682,2829
+136,2022,Assam,18,Cachar,282,North Eastern Region,Rural,90,1795,2602
+137,2022,Assam,18,Cachar,282,North Eastern Region,Semi-urban,7,100,232
+138,2022,Assam,18,Cachar,282,North Eastern Region,Urban,76,858,6896
+139,2022,Assam,18,Charaideo,708,North Eastern Region,Rural,20,402,715
+140,2022,Assam,18,Charaideo,708,North Eastern Region,Semi-urban,10,197,505
+141,2022,Assam,18,Chirang,612,North Eastern Region,Rural,19,540,1183
+142,2022,Assam,18,Chirang,612,North Eastern Region,Semi-urban,12,209,355
+143,2022,Assam,18,Darrang,283,North Eastern Region,Rural,37,755,647
+144,2022,Assam,18,Darrang,283,North Eastern Region,Semi-urban,30,833,1757
+145,2022,Assam,18,Dhemaji,284,North Eastern Region,Rural,21,738,764
+146,2022,Assam,18,Dhemaji,284,North Eastern Region,Semi-urban,23,467,865
+147,2022,Assam,18,Dhubri,285,North Eastern Region,Rural,35,1096,859
+148,2022,Assam,18,Dhubri,285,North Eastern Region,Semi-urban,44,1201,2324
+149,2022,Assam,18,Dibrugarh,286,North Eastern Region,Rural,90,1347,3191
+150,2022,Assam,18,Dibrugarh,286,North Eastern Region,Semi-urban,37,468,3984
+151,2022,Assam,18,Dibrugarh,286,North Eastern Region,Urban,63,616,5112
+152,2022,Assam,18,Dima Hasao,299,North Eastern Region,Rural,13,79,405
+153,2022,Assam,18,Dima Hasao,299,North Eastern Region,Semi-urban,14,115,799
+154,2022,Assam,18,Goalpara,287,North Eastern Region,Rural,39,777,1020
+155,2022,Assam,18,Goalpara,287,North Eastern Region,Semi-urban,25,703,1400
+156,2022,Assam,18,Golaghat,288,North Eastern Region,Rural,67,1112,1516
+157,2022,Assam,18,Golaghat,288,North Eastern Region,Semi-urban,47,765,2300
+158,2022,Assam,18,Hailakandi,289,North Eastern Region,Rural,19,452,467
+159,2022,Assam,18,Hailakandi,289,North Eastern Region,Semi-urban,24,526,1374
+160,2022,Assam,18,Hojai,709,North Eastern Region,Rural,11,277,240
+161,2022,Assam,18,Hojai,709,North Eastern Region,Semi-urban,34,693,2382
+162,2022,Assam,18,Jorhat,290,North Eastern Region,Rural,52,716,1351
+163,2022,Assam,18,Jorhat,290,North Eastern Region,Semi-urban,18,321,670
+164,2022,Assam,18,Jorhat,290,North Eastern Region,Urban,73,830,6010
+165,2022,Assam,18,Kamrup,291,North Eastern Region,Rural,124,2080,4170
+166,2022,Assam,18,Kamrup,291,North Eastern Region,Semi-urban,37,534,1497
+167,2022,Assam,18,Kamrup Metro,618,North Eastern Region,Rural,40,419,2473
+168,2022,Assam,18,Kamrup Metro,618,North Eastern Region,Semi-urban,4,61,242
+169,2022,Assam,18,Kamrup Metro,618,North Eastern Region,Urban,432,4036,72230
+170,2022,Assam,18,Karbi Anglong,292,North Eastern Region,Rural,36,191,644
+171,2022,Assam,18,Karbi Anglong,292,North Eastern Region,Semi-urban,25,220,1592
+172,2022,Assam,18,Karimganj,293,North Eastern Region,Rural,53,1211,1373
+173,2022,Assam,18,Karimganj,293,North Eastern Region,Semi-urban,33,521,2835
+174,2022,Assam,18,Kokrajhar,294,North Eastern Region,Rural,32,892,1211
+175,2022,Assam,18,Kokrajhar,294,North Eastern Region,Semi-urban,20,434,1945
+176,2022,Assam,18,Lakhimpur,295,North Eastern Region,Rural,53,1046,1264
+177,2022,Assam,18,Lakhimpur,295,North Eastern Region,Semi-urban,34,675,1715
+178,2022,Assam,18,Majuli,706,North Eastern Region,Rural,14,234,301
+179,2022,Assam,18,Marigaon,296,North Eastern Region,Rural,41,1128,633
+180,2022,Assam,18,Marigaon,296,North Eastern Region,Semi-urban,27,542,1249
+181,2022,Assam,18,Nagaon,297,North Eastern Region,Rural,101,2274,1912
+182,2022,Assam,18,Nagaon,297,North Eastern Region,Semi-urban,22,701,678
+183,2022,Assam,18,Nagaon,297,North Eastern Region,Urban,47,815,3770
+184,2022,Assam,18,Nalbari,298,North Eastern Region,Rural,55,884,1395
+185,2022,Assam,18,Nalbari,298,North Eastern Region,Semi-urban,24,429,1626
+186,2022,Assam,18,Sivasagar,300,North Eastern Region,Rural,51,701,1442
+187,2022,Assam,18,Sivasagar,300,North Eastern Region,Semi-urban,47,622,3712
+188,2022,Assam,18,Sonitpur,301,North Eastern Region,Rural,64,1002,1527
+189,2022,Assam,18,Sonitpur,301,North Eastern Region,Semi-urban,65,1166,4575
+190,2022,Assam,18,South Salmara Mancachar,707,North Eastern Region,Rural,11,409,282
+191,2022,Assam,18,South Salmara Mancachar,707,North Eastern Region,Semi-urban,4,135,123
+192,2022,Assam,18,Tinsukia,302,North Eastern Region,Rural,56,844,1356
+193,2022,Assam,18,Tinsukia,302,North Eastern Region,Semi-urban,46,714,2563
+194,2022,Assam,18,Tinsukia,302,North Eastern Region,Urban,49,638,4065
+195,2022,Assam,18,Udalguri,617,North Eastern Region,Rural,29,922,689
+196,2022,Assam,18,Udalguri,617,North Eastern Region,Semi-urban,17,433,890
+268,2022,Bihar,10,Araria,188,Eastern Region,Semi-urban,77,1884,3602
+269,2022,Bihar,10,Arwal,611,Eastern Region,Rural,41,773,1567
+270,2022,Bihar,10,Arwal,611,Eastern Region,Semi-urban,19,212,363
+271,2022,Bihar,10,Aurangabad,189,Eastern Region,Rural,108,1854,3264
+272,2022,Bihar,10,Aurangabad,189,Eastern Region,Semi-urban,39,1097,2371
+273,2022,Bihar,10,Aurangabad,189,Eastern Region,Urban,37,443,2814
+274,2022,Bihar,10,Banka,190,Eastern Region,Rural,71,1797,2340
+275,2022,Bihar,10,Banka,190,Eastern Region,Semi-urban,34,693,1699
+276,2022,Bihar,10,Begusarai,191,Eastern Region,Rural,80,1437,1849
+277,2022,Bihar,10,Begusarai,191,Eastern Region,Semi-urban,92,1921,4143
+278,2022,Bihar,10,Begusarai,191,Eastern Region,Urban,49,709,3469
+279,2022,Bihar,10,Bhagalpur,192,Eastern Region,Rural,97,1831,2791
+280,2022,Bihar,10,Bhagalpur,192,Eastern Region,Semi-urban,89,1580,4248
+281,2022,Bihar,10,Bhagalpur,192,Eastern Region,Urban,97,1082,8712
+282,2022,Bihar,10,Bhojpur,193,Eastern Region,Rural,118,2177,3810
+283,2022,Bihar,10,Bhojpur,193,Eastern Region,Semi-urban,53,1156,2695
+284,2022,Bihar,10,Bhojpur,193,Eastern Region,Urban,54,791,5370
+285,2022,Bihar,10,Buxar,194,Eastern Region,Rural,81,1363,2246
+286,2022,Bihar,10,Buxar,194,Eastern Region,Semi-urban,38,797,1883
+287,2022,Bihar,10,Buxar,194,Eastern Region,Urban,31,512,2440
+288,2022,Bihar,10,Darbhanga,195,Eastern Region,Rural,113,2203,3128
+289,2022,Bihar,10,Darbhanga,195,Eastern Region,Semi-urban,61,1379,2195
+290,2022,Bihar,10,Darbhanga,195,Eastern Region,Urban,78,1179,7978
+291,2022,Bihar,10,Gaya,196,Eastern Region,Rural,172,4101,6038
+292,2022,Bihar,10,Gaya,196,Eastern Region,Semi-urban,38,851,2628
+293,2022,Bihar,10,Gaya,196,Eastern Region,Urban,98,1365,9358
+294,2022,Bihar,10,Gopalganj,197,Eastern Region,Rural,109,2340,3868
+295,2022,Bihar,10,Gopalganj,197,Eastern Region,Semi-urban,63,1394,4542
+296,2022,Bihar,10,Jamui,198,Eastern Region,Rural,74,1555,2194
+297,2022,Bihar,10,Jamui,198,Eastern Region,Semi-urban,42,867,2411
+298,2022,Bihar,10,Jehanabad,199,Eastern Region,Rural,56,865,1487
+299,2022,Bihar,10,Jehanabad,199,Eastern Region,Semi-urban,9,217,530
+300,2022,Bihar,10,Jehanabad,199,Eastern Region,Urban,29,405,1969
+301,2022,Bihar,10,Kaimur (Bhabua),200,Eastern Region,Rural,80,1591,2480
+302,2022,Bihar,10,Kaimur (Bhabua),200,Eastern Region,Semi-urban,32,688,1934
+303,2022,Bihar,10,Katihar,201,Eastern Region,Rural,104,2461,2067
+304,2022,Bihar,10,Katihar,201,Eastern Region,Semi-urban,34,803,896
+305,2022,Bihar,10,Katihar,201,Eastern Region,Urban,48,680,3776
+306,2022,Bihar,10,Khagaria,202,Eastern Region,Rural,35,627,633
+307,2022,Bihar,10,Khagaria,202,Eastern Region,Semi-urban,73,1411,3001
+308,2022,Bihar,10,Kishanganj,203,Eastern Region,Rural,59,1345,956
+309,2022,Bihar,10,Kishanganj,203,Eastern Region,Semi-urban,19,586,505
+310,2022,Bihar,10,Kishanganj,203,Eastern Region,Urban,28,470,1846
+311,2022,Bihar,10,Lakhisarai,204,Eastern Region,Rural,44,670,1202
+312,2022,Bihar,10,Lakhisarai,204,Eastern Region,Semi-urban,35,739,2190
+313,2022,Bihar,10,Madhepura,205,Eastern Region,Rural,38,804,875
+314,2022,Bihar,10,Madhepura,205,Eastern Region,Semi-urban,79,1676,2810
+315,2022,Bihar,10,Madhubani,206,Eastern Region,Rural,113,2112,2632
+316,2022,Bihar,10,Madhubani,206,Eastern Region,Semi-urban,154,3162,7184
+317,2022,Bihar,10,Munger,207,Eastern Region,Rural,60,960,1962
+318,2022,Bihar,10,Munger,207,Eastern Region,Semi-urban,16,349,932
+319,2022,Bihar,10,Munger,207,Eastern Region,Urban,53,721,4748
+320,2022,Bihar,10,Muzaffarpur,208,Eastern Region,Rural,176,3940,5375
+321,2022,Bihar,10,Muzaffarpur,208,Eastern Region,Semi-urban,86,1896,3222
+322,2022,Bihar,10,Muzaffarpur,208,Eastern Region,Urban,133,1477,11679
+323,2022,Bihar,10,Nalanda,209,Eastern Region,Rural,132,1929,3840
+324,2022,Bihar,10,Nalanda,209,Eastern Region,Semi-urban,60,1191,3210
+325,2022,Bihar,10,Nalanda,209,Eastern Region,Urban,46,904,4670
+326,2022,Bihar,10,Nawada,210,Eastern Region,Rural,71,1413,1674
+327,2022,Bihar,10,Nawada,210,Eastern Region,Semi-urban,62,1634,3986
+328,2022,Bihar,10,Pashchim Champaran,211,Eastern Region,Rural,94,2208,1826
+329,2022,Bihar,10,Pashchim Champaran,211,Eastern Region,Semi-urban,66,1833,1692
+330,2022,Bihar,10,Pashchim Champaran,211,Eastern Region,Urban,49,1061,3240
+331,2022,Bihar,10,Patna,212,Eastern Region,Rural,197,3294,6767
+332,2022,Bihar,10,Patna,212,Eastern Region,Semi-urban,173,3128,11717
+333,2022,Bihar,10,Patna,212,Eastern Region,Urban,26,491,2682
+334,2022,Bihar,10,Patna,212,Eastern Region,Metropolitan,582,6653,125723
+335,2022,Bihar,10,Purbi Champaran,213,Eastern Region,Rural,97,2216,2467
+336,2022,Bihar,10,Purbi Champaran,213,Eastern Region,Semi-urban,138,3156,4335
+337,2022,Bihar,10,Purbi Champaran,213,Eastern Region,Urban,54,726,3922
+338,2022,Bihar,10,Purnia,214,Eastern Region,Rural,92,2244,1664
+339,2022,Bihar,10,Purnia,214,Eastern Region,Semi-urban,53,1071,1105
+340,2022,Bihar,10,Purnia,214,Eastern Region,Urban,79,1064,4640
+341,2022,Bihar,10,Rohtas,215,Eastern Region,Rural,120,1923,3358
+342,2022,Bihar,10,Rohtas,215,Eastern Region,Semi-urban,46,1177,2346
+343,2022,Bihar,10,Rohtas,215,Eastern Region,Urban,52,975,4580
+344,2022,Bihar,10,Saharsa,216,Eastern Region,Rural,47,1174,1144
+345,2022,Bihar,10,Saharsa,216,Eastern Region,Semi-urban,25,625,843
+346,2022,Bihar,10,Saharsa,216,Eastern Region,Urban,34,483,2477
+347,2022,Bihar,10,Samastipur,217,Eastern Region,Rural,137,2613,4060
+348,2022,Bihar,10,Samastipur,217,Eastern Region,Semi-urban,149,3265,7432
+349,2022,Bihar,10,Saran,218,Eastern Region,Rural,162,10138,6462
+350,2022,Bihar,10,Saran,218,Eastern Region,Semi-urban,51,1504,3060
+351,2022,Bihar,10,Saran,218,Eastern Region,Urban,49,783,5123
+352,2022,Bihar,10,Sheikhpura,219,Eastern Region,Rural,30,297,468
+353,2022,Bihar,10,Sheikhpura,219,Eastern Region,Semi-urban,29,592,1605
+354,2022,Bihar,10,Sheohar,220,Eastern Region,Rural,18,323,314
+355,2022,Bihar,10,Sheohar,220,Eastern Region,Semi-urban,25,414,665
+356,2022,Bihar,10,Sitamarhi,221,Eastern Region,Rural,51,1168,1332
+357,2022,Bihar,10,Sitamarhi,221,Eastern Region,Semi-urban,111,2671,5444
+358,2022,Bihar,10,Siwan,222,Eastern Region,Rural,126,2824,4769
+359,2022,Bihar,10,Siwan,222,Eastern Region,Semi-urban,57,1628,3423
+360,2022,Bihar,10,Siwan,222,Eastern Region,Urban,57,884,4704
+361,2022,Bihar,10,Supaul,223,Eastern Region,Rural,44,1057,1151
+362,2022,Bihar,10,Supaul,223,Eastern Region,Semi-urban,77,1696,2968
+363,2022,Bihar,10,Vaishali,224,Eastern Region,Rural,135,3323,4432
+364,2022,Bihar,10,Vaishali,224,Eastern Region,Semi-urban,63,1808,3258
+1405,2022,Kerala,32,Malappuram,562,Southern Region,Urban,36,449,2425
+1406,2022,Kerala,32,Palakkad,563,Southern Region,Rural,35,303,1042
+1407,2022,Kerala,32,Palakkad,563,Southern Region,Semi-urban,362,4760,20178
+1408,2022,Kerala,32,Palakkad,563,Southern Region,Urban,104,1037,11102
+1409,2022,Kerala,32,Pathanamthitta,564,Southern Region,Rural,9,62,799
+1410,2022,Kerala,32,Pathanamthitta,564,Southern Region,Semi-urban,375,3937,51768
+1411,2022,Kerala,32,Thiruvananthapuram,565,Southern Region,Rural,7,100,241
+1412,2022,Kerala,32,Thiruvananthapuram,565,Southern Region,Semi-urban,352,4969,23339
+1413,2022,Kerala,32,Thiruvananthapuram,565,Southern Region,Urban,424,3979,75364
+1414,2022,Kerala,32,Thrissur,566,Southern Region,Rural,146,1220,7597
+1415,2022,Kerala,32,Thrissur,566,Southern Region,Semi-urban,445,5457,46436
+1416,2022,Kerala,32,Thrissur,566,Southern Region,Urban,192,2003,25866
+1417,2022,Kerala,32,Wayanad,567,Southern Region,Rural,7,56,126
+1473,2022,Madhya Pradesh,23,Alirajpur,639,Central Region,Rural,15,380,340
+1474,2022,Madhya Pradesh,23,Alirajpur,639,Central Region,Semi-urban,18,575,996
+1475,2022,Madhya Pradesh,23,Anuppur,390,Central Region,Rural,28,598,1428
+1476,2022,Madhya Pradesh,23,Anuppur,390,Central Region,Semi-urban,32,564,2764
+1477,2022,Madhya Pradesh,23,Ashoknagar,391,Central Region,Rural,27,380,400
+1478,2022,Madhya Pradesh,23,Ashoknagar,391,Central Region,Semi-urban,46,785,1745
+1479,2022,Madhya Pradesh,23,Balaghat,392,Central Region,Rural,60,1347,1613
+1480,2022,Madhya Pradesh,23,Balaghat,392,Central Region,Semi-urban,51,1216,3484
+1481,2022,Madhya Pradesh,23,Barwani,393,Central Region,Rural,32,663,662
+1482,2022,Madhya Pradesh,23,Barwani,393,Central Region,Semi-urban,68,1229,2655
+1483,2022,Madhya Pradesh,23,Betul,394,Central Region,Rural,65,1234,2503
+1484,2022,Madhya Pradesh,23,Betul,394,Central Region,Semi-urban,44,689,2439
+1485,2022,Madhya Pradesh,23,Betul,394,Central Region,Urban,43,517,2637
+1486,2022,Madhya Pradesh,23,Bhind,395,Central Region,Rural,26,402,547
+1487,2022,Madhya Pradesh,23,Bhind,395,Central Region,Semi-urban,33,931,1684
+1488,2022,Madhya Pradesh,23,Bhind,395,Central Region,Urban,24,593,2081
+1489,2022,Madhya Pradesh,23,Bhopal,396,Central Region,Rural,55,509,1052
+1490,2022,Madhya Pradesh,23,Bhopal,396,Central Region,Semi-urban,8,170,304
+1491,2022,Madhya Pradesh,23,Bhopal,396,Central Region,Metropolitan,509,6035,112464
+1492,2022,Madhya Pradesh,23,Burhanpur,397,Central Region,Rural,22,331,491
+1493,2022,Madhya Pradesh,23,Burhanpur,397,Central Region,Semi-urban,10,179,657
+1494,2022,Madhya Pradesh,23,Burhanpur,397,Central Region,Urban,34,532,1963
+1495,2022,Madhya Pradesh,23,Chhatarpur,398,Central Region,Rural,49,461,952
+1496,2022,Madhya Pradesh,23,Chhatarpur,398,Central Region,Semi-urban,44,1455,2907
+1497,2022,Madhya Pradesh,23,Chhatarpur,398,Central Region,Urban,38,652,3138
+1498,2022,Madhya Pradesh,23,Chhindwara,399,Central Region,Rural,87,1384,2700
+1499,2022,Madhya Pradesh,23,Chhindwara,399,Central Region,Semi-urban,73,1403,3673
+1500,2022,Madhya Pradesh,23,Chhindwara,399,Central Region,Urban,55,780,3897
+1501,2022,Madhya Pradesh,23,Damoh,400,Central Region,Rural,41,817,917
+1502,2022,Madhya Pradesh,23,Damoh,400,Central Region,Semi-urban,14,521,771
+1503,2022,Madhya Pradesh,23,Damoh,400,Central Region,Urban,29,547,2136
+1504,2022,Madhya Pradesh,23,Datia,401,Central Region,Rural,24,349,417
+1505,2022,Madhya Pradesh,23,Datia,401,Central Region,Semi-urban,13,356,639
+1506,2022,Madhya Pradesh,23,Datia,401,Central Region,Urban,25,402,1551
+1507,2022,Madhya Pradesh,23,Dewas,402,Central Region,Rural,66,1000,1309
+1508,2022,Madhya Pradesh,23,Dewas,402,Central Region,Semi-urban,48,885,1561
+1509,2022,Madhya Pradesh,23,Dewas,402,Central Region,Urban,54,813,3884
+1510,2022,Madhya Pradesh,23,Dhar,403,Central Region,Rural,117,1720,2600
+1511,2022,Madhya Pradesh,23,Dhar,403,Central Region,Semi-urban,104,1674,4583
+1512,2022,Madhya Pradesh,23,Dhar,403,Central Region,Urban,27,465,1758
+1513,2022,Madhya Pradesh,23,Dindori,404,Central Region,Rural,17,534,454
+1514,2022,Madhya Pradesh,23,Dindori,404,Central Region,Semi-urban,24,474,879
+1515,2022,Madhya Pradesh,23,East Nimar,405,Central Region,Rural,57,1148,1208
+1516,2022,Madhya Pradesh,23,East Nimar,405,Central Region,Semi-urban,18,278,405
+1517,2022,Madhya Pradesh,23,East Nimar,405,Central Region,Urban,48,612,3149
+1518,2022,Madhya Pradesh,23,Guna,406,Central Region,Rural,39,507,566
+1519,2022,Madhya Pradesh,23,Guna,406,Central Region,Semi-urban,26,629,912
+1520,2022,Madhya Pradesh,23,Guna,406,Central Region,Urban,34,620,2757
+1521,2022,Madhya Pradesh,23,Gwalior,407,Central Region,Rural,45,627,1266
+1522,2022,Madhya Pradesh,23,Gwalior,407,Central Region,Semi-urban,38,631,1638
+1523,2022,Madhya Pradesh,23,Gwalior,407,Central Region,Metropolitan,196,2825,24506
+1524,2022,Madhya Pradesh,23,Harda,408,Central Region,Rural,31,231,391
+1525,2022,Madhya Pradesh,23,Harda,408,Central Region,Semi-urban,59,671,2232
+1526,2022,Madhya Pradesh,23,Hoshangabad,409,Central Region,Rural,68,656,1115
+1527,2022,Madhya Pradesh,23,Hoshangabad,409,Central Region,Semi-urban,96,1369,4868
+1528,2022,Madhya Pradesh,23,Hoshangabad,409,Central Region,Urban,45,523,2540
+1529,2022,Madhya Pradesh,23,Indore,410,Central Region,Rural,90,764,2879
+1530,2022,Madhya Pradesh,23,Indore,410,Central Region,Semi-urban,60,610,2314
+1531,2022,Madhya Pradesh,23,Indore,410,Central Region,Urban,22,358,2241
+1532,2022,Madhya Pradesh,23,Indore,410,Central Region,Metropolitan,561,6813,73968
+1533,2022,Madhya Pradesh,23,Jabalpur,411,Central Region,Rural,61,1054,2005
+1534,2022,Madhya Pradesh,23,Jabalpur,411,Central Region,Semi-urban,51,832,1984
+1535,2022,Madhya Pradesh,23,Jabalpur,411,Central Region,Metropolitan,239,3143,31721
+1536,2022,Madhya Pradesh,23,Jhabua,412,Central Region,Rural,25,557,429
+1537,2022,Madhya Pradesh,23,Jhabua,412,Central Region,Semi-urban,44,1043,1727
+1538,2022,Madhya Pradesh,23,Katni,413,Central Region,Rural,51,1148,2201
+1539,2022,Madhya Pradesh,23,Katni,413,Central Region,Semi-urban,7,194,443
+1540,2022,Madhya Pradesh,23,Katni,413,Central Region,Urban,56,671,4175
+1541,2022,Madhya Pradesh,23,Mandla,415,Central Region,Rural,32,708,985
+1542,2022,Madhya Pradesh,23,Mandla,415,Central Region,Semi-urban,42,775,2511
+1543,2022,Madhya Pradesh,23,Mandsaur,416,Central Region,Rural,43,580,759
+1544,2022,Madhya Pradesh,23,Mandsaur,416,Central Region,Semi-urban,45,850,1339
+1545,2022,Madhya Pradesh,23,Mandsaur,416,Central Region,Urban,41,685,2789
+1546,2022,Madhya Pradesh,23,Morena,417,Central Region,Rural,27,467,398
+1547,2022,Madhya Pradesh,23,Morena,417,Central Region,Semi-urban,38,1249,2122
+1548,2022,Madhya Pradesh,23,Morena,417,Central Region,Urban,25,637,2437
+1549,2022,Madhya Pradesh,23,Narsinghpur,418,Central Region,Rural,48,711,1153
+1550,2022,Madhya Pradesh,23,Narsinghpur,418,Central Region,Semi-urban,80,1101,3592
+1551,2022,Madhya Pradesh,23,Neemuch,419,Central Region,Rural,32,380,749
+1552,2022,Madhya Pradesh,23,Neemuch,419,Central Region,Semi-urban,26,539,984
+1553,2022,Madhya Pradesh,23,Neemuch,419,Central Region,Urban,34,499,2344
+1554,2022,Madhya Pradesh,23,Niwari,722,Central Region,Rural,14,193,342
+1555,2022,Madhya Pradesh,23,Niwari,722,Central Region,Semi-urban,14,290,907
+1556,2022,Madhya Pradesh,23,Panna,420,Central Region,Rural,31,624,778
+1557,2022,Madhya Pradesh,23,Panna,420,Central Region,Semi-urban,33,818,2057
+1558,2022,Madhya Pradesh,23,Raisen,421,Central Region,Rural,54,675,816
+1559,2022,Madhya Pradesh,23,Raisen,421,Central Region,Semi-urban,97,1524,3271
+1560,2022,Madhya Pradesh,23,Rajgarh,422,Central Region,Rural,47,858,795
+1561,2022,Madhya Pradesh,23,Rajgarh,422,Central Region,Semi-urban,88,1626,2767
+1562,2022,Madhya Pradesh,23,Ratlam,423,Central Region,Rural,58,780,808
+1563,2022,Madhya Pradesh,23,Ratlam,423,Central Region,Semi-urban,39,819,1482
+1564,2022,Madhya Pradesh,23,Ratlam,423,Central Region,Urban,66,906,4797
+1565,2022,Madhya Pradesh,23,Rewa,424,Central Region,Rural,69,1297,2886
+1566,2022,Madhya Pradesh,23,Rewa,424,Central Region,Semi-urban,37,1034,2513
+1567,2022,Madhya Pradesh,23,Rewa,424,Central Region,Urban,69,1097,7614
+1568,2022,Madhya Pradesh,23,Sagar,425,Central Region,Rural,65,997,1560
+1569,2022,Madhya Pradesh,23,Sagar,425,Central Region,Semi-urban,86,1846,3775
+1570,2022,Madhya Pradesh,23,Sagar,425,Central Region,Urban,72,1118,6842
+1571,2022,Madhya Pradesh,23,Satna,426,Central Region,Rural,88,1291,2608
+1572,2022,Madhya Pradesh,23,Satna,426,Central Region,Semi-urban,49,1016,3271
+1573,2022,Madhya Pradesh,23,Satna,426,Central Region,Urban,58,917,6147
+1574,2022,Madhya Pradesh,23,Sehore,427,Central Region,Rural,68,822,1116
+1575,2022,Madhya Pradesh,23,Sehore,427,Central Region,Semi-urban,57,878,1822
+1576,2022,Madhya Pradesh,23,Sehore,427,Central Region,Urban,39,473,1793
+1577,2022,Madhya Pradesh,23,Seoni,428,Central Region,Rural,48,1086,1451
+1578,2022,Madhya Pradesh,23,Seoni,428,Central Region,Semi-urban,12,404,670
+1579,2022,Madhya Pradesh,23,Seoni,428,Central Region,Urban,30,497,2357
+1580,2022,Madhya Pradesh,23,Shahdol,429,Central Region,Rural,25,640,853
+1581,2022,Madhya Pradesh,23,Shahdol,429,Central Region,Semi-urban,56,1120,4403
+1582,2022,Madhya Pradesh,23,Shajapur,430,Central Region,Rural,48,658,774
+1583,2022,Madhya Pradesh,23,Shajapur,430,Central Region,Semi-urban,56,885,1944
+1584,2022,Madhya Pradesh,23,Sheopur,431,Central Region,Rural,9,221,175
+1585,2022,Madhya Pradesh,23,Sheopur,431,Central Region,Semi-urban,20,663,1081
+1586,2022,Madhya Pradesh,23,Shivpuri,432,Central Region,Rural,40,819,837
+1587,2022,Madhya Pradesh,23,Shivpuri,432,Central Region,Semi-urban,29,863,1384
+1588,2022,Madhya Pradesh,23,Shivpuri,432,Central Region,Urban,32,568,2531
+1589,2022,Madhya Pradesh,23,Sidhi,433,Central Region,Rural,32,650,1132
+1590,2022,Madhya Pradesh,23,Sidhi,433,Central Region,Semi-urban,35,880,2600
+1591,2022,Madhya Pradesh,23,Singrauli,638,Central Region,Rural,39,1002,1910
+1592,2022,Madhya Pradesh,23,Singrauli,638,Central Region,Urban,40,568,11876
+1593,2022,Madhya Pradesh,23,Tikamgarh,434,Central Region,Rural,29,512,732
+1594,2022,Madhya Pradesh,23,Tikamgarh,434,Central Region,Semi-urban,36,823,2473
+1595,2022,Madhya Pradesh,23,Ujjain,435,Central Region,Rural,68,987,1301
+1596,2022,Madhya Pradesh,23,Ujjain,435,Central Region,Semi-urban,47,870,1628
+1597,2022,Madhya Pradesh,23,Ujjain,435,Central Region,Urban,137,1855,11461
+1598,2022,Madhya Pradesh,23,Umaria,436,Central Region,Rural,16,443,971
+1599,2022,Madhya Pradesh,23,Umaria,436,Central Region,Semi-urban,26,551,1824
+1600,2022,Madhya Pradesh,23,Vidisha,437,Central Region,Rural,50,653,701
+1601,2022,Madhya Pradesh,23,Vidisha,437,Central Region,Semi-urban,44,931,1611
+1602,2022,Madhya Pradesh,23,Vidisha,437,Central Region,Urban,37,558,2462
+1603,2022,Madhya Pradesh,23,Khargone,414,Central Region,Rural,76,1240,1354
+1604,2022,Madhya Pradesh,23,Khargone,414,Central Region,Semi-urban,57,1083,2490
+2564,2022,Tamil Nadu,33,Dindigul,572,Southern Region,Rural,100,1041,2319
+2565,2022,Tamil Nadu,33,Dindigul,572,Southern Region,Semi-urban,145,1844,5707
+2566,2022,Tamil Nadu,33,Dindigul,572,Southern Region,Urban,63,895,4398
+2567,2022,Tamil Nadu,33,Erode,573,Southern Region,Rural,118,1211,3994
+2568,2022,Tamil Nadu,33,Erode,573,Southern Region,Semi-urban,208,2474,14664
+2569,2022,Tamil Nadu,33,Erode,573,Southern Region,Urban,108,1147,10911
+2570,2022,Tamil Nadu,33,Kallakurichi,729,Southern Region,Rural,49,832,925
+2571,2022,Tamil Nadu,33,Kallakurichi,729,Southern Region,Semi-urban,72,1346,2776
+2572,2022,Tamil Nadu,33,Kanchipuram,574,Southern Region,Rural,66,712,2423
+2573,2022,Tamil Nadu,33,Kanchipuram,574,Southern Region,Semi-urban,122,1388,10580
+2574,2022,Tamil Nadu,33,Kanchipuram,574,Southern Region,Urban,75,872,5352
+2575,2022,Tamil Nadu,33,Kanchipuram,574,Southern Region,Metropolitan,109,1289,15663
+2576,2022,Tamil Nadu,33,Kanniyakumari,575,Southern Region,Rural,100,1247,4528
+2577,2022,Tamil Nadu,33,Kanniyakumari,575,Southern Region,Semi-urban,151,2180,6044
+2578,2022,Tamil Nadu,33,Kanniyakumari,575,Southern Region,Urban,70,944,6547
+2579,2022,Tamil Nadu,33,Karur,576,Southern Region,Rural,52,645,1497
+2580,2022,Tamil Nadu,33,Karur,576,Southern Region,Semi-urban,110,1343,5346
+2581,2022,Tamil Nadu,33,Krishnagiri,577,Southern Region,Rural,98,1494,2440
+2582,2022,Tamil Nadu,33,Krishnagiri,577,Southern Region,Semi-urban,88,1388,4195
+2583,2022,Tamil Nadu,33,Krishnagiri,577,Southern Region,Urban,59,806,5199
+2584,2022,Tamil Nadu,33,Madurai,578,Southern Region,Rural,103,1086,2338
+2585,2022,Tamil Nadu,33,Madurai,578,Southern Region,Semi-urban,126,1718,4886
+2586,2022,Tamil Nadu,33,Madurai,578,Southern Region,Metropolitan,320,3757,27574
+2587,2022,Tamil Nadu,33,Nagapattinam,579,Southern Region,Rural,44,432,1110
+2588,2022,Tamil Nadu,33,Nagapattinam,579,Southern Region,Semi-urban,34,600,2156
+2589,2022,Tamil Nadu,33,Nagapattinam,579,Southern Region,Rural,61,722,1569
+2590,2022,Tamil Nadu,33,Nagapattinam,579,Southern Region,Semi-urban,39,660,2781
+2591,2022,Tamil Nadu,33,Nagapattinam,579,Southern Region,Urban,28,377,1695
+2592,2022,Tamil Nadu,33,Namakkal,580,Southern Region,Rural,107,1235,4238
+2593,2022,Tamil Nadu,33,Namakkal,580,Southern Region,Semi-urban,178,2404,10796
+2594,2022,Tamil Nadu,33,The Nilgiris,587,Southern Region,Rural,20,205,464
+2595,2022,Tamil Nadu,33,The Nilgiris,587,Southern Region,Semi-urban,94,1150,5675
+2596,2022,Tamil Nadu,33,Perambalur,581,Southern Region,Rural,41,480,972
+2597,2022,Tamil Nadu,33,Perambalur,581,Southern Region,Semi-urban,39,504,1771
+2598,2022,Tamil Nadu,33,Pudukkottai,582,Southern Region,Rural,122,1551,2921
+2599,2022,Tamil Nadu,33,Pudukkottai,582,Southern Region,Semi-urban,45,730,1610
+2600,2022,Tamil Nadu,33,Pudukkottai,582,Southern Region,Urban,34,592,2766
+2601,2022,Tamil Nadu,33,Ramanathapuram,583,Southern Region,Rural,63,824,1394
+2602,2022,Tamil Nadu,33,Ramanathapuram,583,Southern Region,Semi-urban,86,1431,4088
+2603,2022,Tamil Nadu,33,Ranipet,731,Southern Region,Rural,48,607,1105
+2604,2022,Tamil Nadu,33,Ranipet,731,Southern Region,Semi-urban,98,1371,4927
+2605,2022,Tamil Nadu,33,Salem,584,Southern Region,Rural,96,1272,2380
+2606,2022,Tamil Nadu,33,Salem,584,Southern Region,Semi-urban,182,2887,7005
+2607,2022,Tamil Nadu,33,Salem,584,Southern Region,Urban,185,2540,21622
+2608,2022,Tamil Nadu,33,Sivaganga,585,Southern Region,Rural,124,956,2381
+2609,2022,Tamil Nadu,33,Sivaganga,585,Southern Region,Semi-urban,95,1308,4270
+2610,2022,Tamil Nadu,33,Sivaganga,585,Southern Region,Urban,40,481,3624
+2611,2022,Tamil Nadu,33,Tenkasi,733,Southern Region,Rural,59,602,1312
+2612,2022,Tamil Nadu,33,Tenkasi,733,Southern Region,Semi-urban,130,2021,5642
+2613,2022,Tamil Nadu,33,Thanjavur,586,Southern Region,Rural,138,1610,3650
+2614,2022,Tamil Nadu,33,Thanjavur,586,Southern Region,Semi-urban,116,1730,4798
+2615,2022,Tamil Nadu,33,Thanjavur,586,Southern Region,Urban,129,2082,11556
+2616,2022,Tamil Nadu,33,Theni,588,Southern Region,Rural,28,243,512
+2617,2022,Tamil Nadu,33,Theni,588,Southern Region,Semi-urban,165,2085,5827
+2618,2022,Tamil Nadu,33,Thiruvallur,589,Southern Region,Rural,96,1332,6244
+2619,2022,Tamil Nadu,33,Thiruvallur,589,Southern Region,Semi-urban,229,2923,14750
+2620,2022,Tamil Nadu,33,Thiruvallur,589,Southern Region,Urban,45,589,8554
+2621,2022,Tamil Nadu,33,Thiruvallur,589,Southern Region,Metropolitan,148,2197,17598
+2622,2022,Tamil Nadu,33,Thiruvarur,590,Southern Region,Rural,80,894,2068
+2623,2022,Tamil Nadu,33,Thiruvarur,590,Southern Region,Semi-urban,98,1451,4690
+2624,2022,Tamil Nadu,33,Tiruchirappalli,591,Southern Region,Rural,119,1444,3216
+2625,2022,Tamil Nadu,33,Tiruchirappalli,591,Southern Region,Semi-urban,122,1684,6881
+2626,2022,Tamil Nadu,33,Tiruchirappalli,591,Southern Region,Urban,240,3775,23866
+2627,2022,Tamil Nadu,33,Tirunelveli,592,Southern Region,Rural,73,803,2175
+2628,2022,Tamil Nadu,33,Tirunelveli,592,Southern Region,Semi-urban,81,1183,3670
+2629,2022,Tamil Nadu,33,Tirunelveli,592,Southern Region,Urban,128,1536,10583
+2630,2022,Tamil Nadu,33,Tirupathur,732,Southern Region,Rural,34,501,746
+2631,2022,Tamil Nadu,33,Tirupathur,732,Southern Region,Semi-urban,58,1008,2676
+2632,2022,Tamil Nadu,33,Tirupathur,732,Southern Region,Urban,22,454,792
+2633,2022,Tamil Nadu,33,Tiruppur,634,Southern Region,Rural,109,1152,4718
+2634,2022,Tamil Nadu,33,Tiruppur,634,Southern Region,Semi-urban,183,2178,9548
+2635,2022,Tamil Nadu,33,Tiruppur,634,Southern Region,Urban,118,1844,12000
+2636,2022,Tamil Nadu,33,Tiruvannamalai,593,Southern Region,Rural,109,1680,2396
+2637,2022,Tamil Nadu,33,Tiruvannamalai,593,Southern Region,Semi-urban,85,1544,3814
+2638,2022,Tamil Nadu,33,Tiruvannamalai,593,Southern Region,Urban,43,659,2791
+2639,2022,Tamil Nadu,33,Tuticorin,594,Southern Region,Rural,90,1024,2637
+2640,2022,Tamil Nadu,33,Tuticorin,594,Southern Region,Semi-urban,89,1470,5342
+2641,2022,Tamil Nadu,33,Tuticorin,594,Southern Region,Urban,75,1031,7361
+2642,2022,Tamil Nadu,33,Vellore,595,Southern Region,Rural,62,896,1697
+2643,2022,Tamil Nadu,33,Vellore,595,Southern Region,Semi-urban,59,1040,4173
+2644,2022,Tamil Nadu,33,Vellore,595,Southern Region,Urban,77,885,8067
+2645,2022,Tamil Nadu,33,Villupuram,596,Southern Region,Rural,113,2012,2665
+2646,2022,Tamil Nadu,33,Villupuram,596,Southern Region,Semi-urban,97,1500,4554
+2647,2022,Tamil Nadu,33,Virudhunagar,597,Southern Region,Rural,82,1016,2207
+2648,2022,Tamil Nadu,33,Virudhunagar,597,Southern Region,Semi-urban,146,2373,11184
+2737,2022,Telangana,36,Adilabad,501,Southern Region,Rural,46,479,924
+2738,2022,Telangana,36,Adilabad,501,Southern Region,Semi-urban,17,330,781
+2739,2022,Telangana,36,Adilabad,501,Southern Region,Urban,36,917,2211
+2740,2022,Telangana,36,Bhadradri Kothagudem,690,Southern Region,Rural,46,553,816
+2741,2022,Telangana,36,Bhadradri Kothagudem,690,Southern Region,Semi-urban,93,1277,5028
+2742,2022,Telangana,36,Hyderabad,507,Southern Region,Metropolitan,1291,18048,373096
+2743,2022,Telangana,36,Jagitial,681,Southern Region,Rural,52,489,944
+2744,2022,Telangana,36,Jagitial,681,Southern Region,Semi-urban,31,524,1494
+2745,2022,Telangana,36,Jagitial,681,Southern Region,Urban,27,366,1463
+2746,2022,Telangana,36,Jangoan,689,Southern Region,Rural,27,479,538
+2747,2022,Telangana,36,Jangoan,689,Southern Region,Semi-urban,25,325,917
+2748,2022,Telangana,36,Jayashankar Bhupalapally,687,Southern Region,Rural,22,342,498
+2749,2022,Telangana,36,Jayashankar Bhupalapally,687,Southern Region,Semi-urban,14,157,733
+2750,2022,Telangana,36,Jogulamba Gadwal,695,Southern Region,Rural,22,337,372
+2751,2022,Telangana,36,Jogulamba Gadwal,695,Southern Region,Semi-urban,28,505,1150
+2752,2022,Telangana,36,Kamareddy,685,Southern Region,Rural,48,626,846
+2753,2022,Telangana,36,Kamareddy,685,Southern Region,Semi-urban,49,712,2043
+2754,2022,Telangana,36,Karimnagar,508,Southern Region,Rural,71,774,2228
+2755,2022,Telangana,36,Karimnagar,508,Southern Region,Semi-urban,32,504,2154
+2756,2022,Telangana,36,Karimnagar,508,Southern Region,Urban,87,1369,7061
+2757,2022,Telangana,36,Khammam,509,Southern Region,Rural,78,888,1464
+2758,2022,Telangana,36,Khammam,509,Southern Region,Semi-urban,51,701,1494
+2759,2022,Telangana,36,Khammam,509,Southern Region,Urban,77,1004,5093
+2760,2022,Telangana,36,Kumuram Bheem Asifabad,699,Southern Region,Rural,27,466,969
+2761,2022,Telangana,36,Kumuram Bheem Asifabad,699,Southern Region,Semi-urban,16,198,748
+2762,2022,Telangana,36,Mahabubabad,688,Southern Region,Rural,19,329,314
+2763,2022,Telangana,36,Mahabubabad,688,Southern Region,Semi-urban,41,801,1313
+2764,2022,Telangana,36,Mahabubnagar,512,Southern Region,Rural,53,671,873
+2765,2022,Telangana,36,Mahabubnagar,512,Southern Region,Semi-urban,28,385,964
+2766,2022,Telangana,36,Mahabubnagar,512,Southern Region,Urban,53,681,3074
+2767,2022,Telangana,36,Mancherial,684,Southern Region,Rural,36,450,1100
+2768,2022,Telangana,36,Mancherial,684,Southern Region,Semi-urban,62,881,4589
+2769,2022,Telangana,36,Medak,513,Southern Region,Rural,57,627,1045
+2770,2022,Telangana,36,Medak,513,Southern Region,Semi-urban,37,554,1247
+2771,2022,Telangana,36,Medchal Malkajgiri,700,Southern Region,Rural,39,354,3527
+2772,2022,Telangana,36,Medchal Malkajgiri,700,Southern Region,Semi-urban,93,853,5664
+2773,2022,Telangana,36,Medchal Malkajgiri,700,Southern Region,Metropolitan,530,7385,91640
+2774,2022,Telangana,36,Mulugu,720,Southern Region,Rural,20,272,532
+2775,2022,Telangana,36,Mulugu,720,Southern Region,Semi-urban,7,119,323
+2776,2022,Telangana,36,Nagarkurnool,694,Southern Region,Rural,48,668,946
+2777,2022,Telangana,36,Nagarkurnool,694,Southern Region,Semi-urban,30,551,1315
+2778,2022,Telangana,36,Nalgonda,514,Southern Region,Rural,90,1093,1604
+2779,2022,Telangana,36,Nalgonda,514,Southern Region,Semi-urban,41,561,1143
+2780,2022,Telangana,36,Nalgonda,514,Southern Region,Urban,79,1076,3923
+2781,2022,Telangana,36,Narayanpet,721,Southern Region,Rural,22,342,345
+2782,2022,Telangana,36,Narayanpet,721,Southern Region,Semi-urban,20,397,731
+2783,2022,Telangana,36,Nirmal,680,Southern Region,Rural,48,619,999
+2784,2022,Telangana,36,Nirmal,680,Southern Region,Semi-urban,31,507,1396
+2785,2022,Telangana,36,Nizamabad,516,Southern Region,Rural,128,1148,2155
+2786,2022,Telangana,36,Nizamabad,516,Southern Region,Semi-urban,58,759,1794
+2787,2022,Telangana,36,Nizamabad,516,Southern Region,Urban,67,835,3977
+2788,2022,Telangana,36,Peddapalli,682,Southern Region,Rural,35,486,1501
+2789,2022,Telangana,36,Peddapalli,682,Southern Region,Semi-urban,36,447,1681
+2790,2022,Telangana,36,Peddapalli,682,Southern Region,Urban,20,339,2043
+2791,2022,Telangana,36,Rajanna Sircilla,683,Southern Region,Rural,29,359,715
+2792,2022,Telangana,36,Rajanna Sircilla,683,Southern Region,Semi-urban,23,399,1421
+2793,2022,Telangana,36,Ranga Reddy,518,Southern Region,Rural,132,1180,5856
+2794,2022,Telangana,36,Ranga Reddy,518,Southern Region,Semi-urban,83,888,3785
+2795,2022,Telangana,36,Ranga Reddy,518,Southern Region,Metropolitan,211,2001,25030
+2796,2022,Telangana,36,Sangareddy,691,Southern Region,Rural,75,823,2273
+2797,2022,Telangana,36,Sangareddy,691,Southern Region,Semi-urban,99,1258,5163
+2798,2022,Telangana,36,Sangareddy,691,Southern Region,Metropolitan,29,364,4444
+2799,2022,Telangana,36,Siddipet,692,Southern Region,Rural,62,690,1406
+2800,2022,Telangana,36,Siddipet,692,Southern Region,Semi-urban,26,523,1000
+2801,2022,Telangana,36,Siddipet,692,Southern Region,Urban,36,497,1916
+2802,2022,Telangana,36,Suryapet,696,Southern Region,Rural,54,658,765
+2803,2022,Telangana,36,Suryapet,696,Southern Region,Semi-urban,52,684,1428
+2804,2022,Telangana,36,Suryapet,696,Southern Region,Urban,37,470,1385
+2805,2022,Telangana,36,Vikarabad,698,Southern Region,Rural,58,641,1020
+2806,2022,Telangana,36,Vikarabad,698,Southern Region,Semi-urban,37,576,1612
+2807,2022,Telangana,36,Wanaparthy,693,Southern Region,Rural,23,244,340
+2808,2022,Telangana,36,Wanaparthy,693,Southern Region,Semi-urban,31,551,1209
+2809,2022,Telangana,36,Warangal Rural,522,Southern Region,Rural,41,525,652
+2810,2022,Telangana,36,Warangal Rural,522,Southern Region,Semi-urban,25,586,783
+2811,2022,Telangana,36,Warangal Urban,686,Southern Region,Rural,27,309,682
+2812,2022,Telangana,36,Warangal Urban,686,Southern Region,Semi-urban,9,108,779
+2813,2022,Telangana,36,Warangal Urban,686,Southern Region,Urban,168,2503,15200
+3012,2022,Uttar Pradesh,9,Farrukhabad,141,Central Region,Urban,48,738,3989
+3013,2022,Uttar Pradesh,9,Fatehpur,142,Central Region,Rural,108,1880,3485
+3014,2022,Uttar Pradesh,9,Fatehpur,142,Central Region,Semi-urban,48,1044,2630
+3015,2022,Uttar Pradesh,9,Fatehpur,142,Central Region,Urban,36,566,3483
+3016,2022,Uttar Pradesh,9,Firozabad,143,Central Region,Rural,52,850,1157
+3017,2022,Uttar Pradesh,9,Firozabad,143,Central Region,Semi-urban,38,877,2324
+3018,2022,Uttar Pradesh,9,Firozabad,143,Central Region,Urban,72,1447,5995
+3019,2022,Uttar Pradesh,9,Gautam Buddha Nagar,144,Central Region,Rural,81,775,4825
+3020,2022,Uttar Pradesh,9,Gautam Buddha Nagar,144,Central Region,Semi-urban,50,649,4436
+3021,2022,Uttar Pradesh,9,Gautam Buddha Nagar,144,Central Region,Urban,452,6785,139697
+3022,2022,Uttar Pradesh,9,Ghaziabad,145,Central Region,Rural,42,424,2176
+3023,2022,Uttar Pradesh,9,Ghaziabad,145,Central Region,Semi-urban,33,437,1809
+3024,2022,Uttar Pradesh,9,Ghaziabad,145,Central Region,Urban,37,868,4137
+3025,2022,Uttar Pradesh,9,Ghaziabad,145,Central Region,Metropolitan,367,5003,66190
+3026,2022,Uttar Pradesh,9,Ghazipur,146,Central Region,Rural,179,3521,8109
+3027,2022,Uttar Pradesh,9,Ghazipur,146,Central Region,Semi-urban,61,1417,4528
+3028,2022,Uttar Pradesh,9,Ghazipur,146,Central Region,Urban,42,599,4413
+3029,2022,Uttar Pradesh,9,Gonda,147,Central Region,Rural,149,3083,5409
+3030,2022,Uttar Pradesh,9,Gonda,147,Central Region,Semi-urban,37,940,1771
+3031,2022,Uttar Pradesh,9,Gonda,147,Central Region,Urban,42,632,3428
+3032,2022,Uttar Pradesh,9,Gorakhpur,148,Central Region,Rural,181,3848,9052
+3033,2022,Uttar Pradesh,9,Gorakhpur,148,Central Region,Semi-urban,62,1147,3205
+3034,2022,Uttar Pradesh,9,Gorakhpur,148,Central Region,Urban,198,2695,23382
+3035,2022,Uttar Pradesh,9,Hamirpur,17,Central Region,Rural,49,606,914
+3036,2022,Uttar Pradesh,9,Hamirpur,17,Central Region,Semi-urban,53,946,3019
+3037,2022,Uttar Pradesh,9,Hapur,661,Central Region,Rural,58,614,1915
+3038,2022,Uttar Pradesh,9,Hapur,661,Central Region,Semi-urban,34,479,1621
+3039,2022,Uttar Pradesh,9,Hapur,661,Central Region,Urban,46,631,4208
+3040,2022,Uttar Pradesh,9,Hardoi,150,Central Region,Rural,144,2723,3781
+3041,2022,Uttar Pradesh,9,Hardoi,150,Central Region,Semi-urban,61,1612,3474
+3042,2022,Uttar Pradesh,9,Hardoi,150,Central Region,Urban,39,643,3810
+3043,2022,Uttar Pradesh,9,Hathras,163,Central Region,Rural,57,702,1260
+3044,2022,Uttar Pradesh,9,Hathras,163,Central Region,Semi-urban,37,737,1878
+3045,2022,Uttar Pradesh,9,Hathras,163,Central Region,Urban,41,566,2961
+3046,2022,Uttar Pradesh,9,Jalaun,151,Central Region,Rural,57,883,1345
+3047,2022,Uttar Pradesh,9,Jalaun,151,Central Region,Semi-urban,41,841,2125
+3048,2022,Uttar Pradesh,9,Jalaun,151,Central Region,Urban,33,531,3126
+3049,2022,Uttar Pradesh,9,Jaunpur,152,Central Region,Rural,235,5242,10400
+3050,2022,Uttar Pradesh,9,Jaunpur,152,Central Region,Semi-urban,54,1296,3480
+3051,2022,Uttar Pradesh,9,Jaunpur,152,Central Region,Urban,48,776,5306
+3052,2022,Uttar Pradesh,9,Jhansi,153,Central Region,Rural,52,798,1784
+3053,2022,Uttar Pradesh,9,Jhansi,153,Central Region,Semi-urban,57,1168,3208
+3054,2022,Uttar Pradesh,9,Jhansi,153,Central Region,Urban,112,1449,12745
+3055,2022,Uttar Pradesh,9,Kannauj,155,Central Region,Rural,53,849,1212
+3056,2022,Uttar Pradesh,9,Kannauj,155,Central Region,Semi-urban,79,1416,4011
+3057,2022,Uttar Pradesh,9,Kanpur Dehat,156,Central Region,Rural,109,1664,3297
+3058,2022,Uttar Pradesh,9,Kanpur Dehat,156,Central Region,Semi-urban,53,953,2642
+3059,2022,Uttar Pradesh,9,Kanpur Nagar,157,Central Region,Rural,99,1392,4050
+3060,2022,Uttar Pradesh,9,Kanpur Nagar,157,Central Region,Semi-urban,41,689,2005
+3061,2022,Uttar Pradesh,9,Kanpur Nagar,157,Central Region,Metropolitan,519,6920,75676
+3062,2022,Uttar Pradesh,9,Kasganj,633,Central Region,Rural,34,394,484
+3063,2022,Uttar Pradesh,9,Kasganj,633,Central Region,Semi-urban,27,757,1189
+3064,2022,Uttar Pradesh,9,Kasganj,633,Central Region,Urban,23,464,1646
+3065,2022,Uttar Pradesh,9,Kaushambi,158,Central Region,Rural,87,1433,2444
+3066,2022,Uttar Pradesh,9,Kaushambi,158,Central Region,Semi-urban,44,679,1838
+3067,2022,Uttar Pradesh,9,Kheri,159,Central Region,Rural,150,2654,3430
+3068,2022,Uttar Pradesh,9,Kheri,159,Central Region,Semi-urban,85,1743,3546
+3069,2022,Uttar Pradesh,9,Kheri,159,Central Region,Urban,39,591,2837
+3070,2022,Uttar Pradesh,9,Kushi Nagar,160,Central Region,Rural,134,3277,5061
+3071,2022,Uttar Pradesh,9,Kushi Nagar,160,Central Region,Semi-urban,80,1893,4214
+3072,2022,Uttar Pradesh,9,Lalitpur,161,Central Region,Rural,50,1025,1363
+3073,2022,Uttar Pradesh,9,Lalitpur,161,Central Region,Semi-urban,11,261,480
+3074,2022,Uttar Pradesh,9,Lalitpur,161,Central Region,Urban,33,483,2273
+3075,2022,Uttar Pradesh,9,Lucknow,162,Central Region,Rural,155,1855,8157
+3076,2022,Uttar Pradesh,9,Lucknow,162,Central Region,Semi-urban,68,889,3529
+3077,2022,Uttar Pradesh,9,Lucknow,162,Central Region,Metropolitan,815,9845,199918
+3078,2022,Uttar Pradesh,9,Maharajganj,164,Central Region,Rural,104,2487,3422
+3079,2022,Uttar Pradesh,9,Maharajganj,164,Central Region,Semi-urban,61,1076,2535
+3080,2022,Uttar Pradesh,9,Mahoba,165,Central Region,Rural,21,450,683
+3081,2022,Uttar Pradesh,9,Mahoba,165,Central Region,Semi-urban,39,733,2684
+3082,2022,Uttar Pradesh,9,Mainpuri,166,Central Region,Rural,53,813,1146
+3083,2022,Uttar Pradesh,9,Mainpuri,166,Central Region,Semi-urban,30,1071,1959
+3084,2022,Uttar Pradesh,9,Mainpuri,166,Central Region,Urban,32,570,2978
+3085,2022,Uttar Pradesh,9,Mathura,167,Central Region,Rural,85,1060,2674
+3086,2022,Uttar Pradesh,9,Mathura,167,Central Region,Semi-urban,105,1458,6174
+3087,2022,Uttar Pradesh,9,Mathura,167,Central Region,Urban,87,1064,9437
+3088,2022,Uttar Pradesh,9,Mau,168,Central Region,Rural,93,1999,4487
+3089,2022,Uttar Pradesh,9,Mau,168,Central Region,Semi-urban,39,937,2589
+3090,2022,Uttar Pradesh,9,Mau,168,Central Region,Urban,35,613,2965
+3091,2022,Uttar Pradesh,9,Meerut,169,Central Region,Rural,120,1369,4334
+3092,2022,Uttar Pradesh,9,Meerut,169,Central Region,Semi-urban,69,1256,3694
+3093,2022,Uttar Pradesh,9,Meerut,169,Central Region,Metropolitan,277,3642,32921
+3094,2022,Uttar Pradesh,9,Mirzapur,170,Central Region,Rural,129,2398,4712
+3095,2022,Uttar Pradesh,9,Mirzapur,170,Central Region,Semi-urban,23,413,1251
+3096,2022,Uttar Pradesh,9,Mirzapur,170,Central Region,Urban,50,722,4071
+3097,2022,Uttar Pradesh,9,Moradabad,171,Central Region,Rural,138,1805,3047
+3098,2022,Uttar Pradesh,9,Moradabad,171,Central Region,Semi-urban,53,1159,2403
+3099,2022,Uttar Pradesh,9,Moradabad,171,Central Region,Urban,150,2073,14880
+3100,2022,Uttar Pradesh,9,Muzaffarnagar,172,Central Region,Rural,98,1089,2722
+3101,2022,Uttar Pradesh,9,Muzaffarnagar,172,Central Region,Semi-urban,95,1792,4687
+3102,2022,Uttar Pradesh,9,Muzaffarnagar,172,Central Region,Urban,88,1230,8402
+3103,2022,Uttar Pradesh,9,Pilibhit,173,Central Region,Rural,77,1235,1552
+3104,2022,Uttar Pradesh,9,Pilibhit,173,Central Region,Semi-urban,39,954,1764
+3105,2022,Uttar Pradesh,9,Pilibhit,173,Central Region,Urban,32,478,2471
+3106,2022,Uttar Pradesh,9,Pratapgarh,629,Central Region,Rural,192,3882,8239
+3107,2022,Uttar Pradesh,9,Pratapgarh,629,Central Region,Semi-urban,59,1036,4339
+3108,2022,Uttar Pradesh,9,Prayagraj,120,Central Region,Rural,242,4718,9200
+3109,2022,Uttar Pradesh,9,Prayagraj,120,Central Region,Semi-urban,67,1707,4816
+3110,2022,Uttar Pradesh,9,Prayagraj,120,Central Region,Metropolitan,266,3680,41437
+3111,2022,Uttar Pradesh,9,Rae Bareli,175,Central Region,Rural,197,2676,6041
+3112,2022,Uttar Pradesh,9,Rae Bareli,175,Central Region,Semi-urban,60,1000,2711
+3113,2022,Uttar Pradesh,9,Rae Bareli,175,Central Region,Urban,54,752,4230
+3114,2022,Uttar Pradesh,9,Rampur,176,Central Region,Rural,109,1356,1722
+3115,2022,Uttar Pradesh,9,Rampur,176,Central Region,Semi-urban,53,1021,1856
+3116,2022,Uttar Pradesh,9,Rampur,176,Central Region,Urban,41,632,3271
+3117,2022,Uttar Pradesh,9,Saharanpur,177,Central Region,Rural,109,1874,3239
+3118,2022,Uttar Pradesh,9,Saharanpur,177,Central Region,Semi-urban,90,1826,3859
+3119,2022,Uttar Pradesh,9,Saharanpur,177,Central Region,Urban,118,1746,10841
+3120,2022,Uttar Pradesh,9,Sambhal,659,Central Region,Rural,98,1547,2075
+3121,2022,Uttar Pradesh,9,Sambhal,659,Central Region,Semi-urban,29,631,1188
+3122,2022,Uttar Pradesh,9,Sambhal,659,Central Region,Urban,34,725,2475
+3123,2022,Uttar Pradesh,9,Sant Kabeer Nagar,178,Central Region,Rural,84,1859,2736
+3124,2022,Uttar Pradesh,9,Sant Kabeer Nagar,178,Central Region,Semi-urban,40,686,2246
+3125,2022,Uttar Pradesh,9,Bhadohi,179,Central Region,Rural,70,1425,2785
+3126,2022,Uttar Pradesh,9,Bhadohi,179,Central Region,Semi-urban,62,1062,3788
+3127,2022,Uttar Pradesh,9,Shahjahanpur,180,Central Region,Rural,121,2106,2581
+3128,2022,Uttar Pradesh,9,Shahjahanpur,180,Central Region,Semi-urban,58,1192,2490
+3129,2022,Uttar Pradesh,9,Shahjahanpur,180,Central Region,Urban,48,772,4558
+3130,2022,Uttar Pradesh,9,Shamli,660,Central Region,Rural,33,344,794
+3131,2022,Uttar Pradesh,9,Shamli,660,Central Region,Semi-urban,38,861,1782
+3132,2022,Uttar Pradesh,9,Shamli,660,Central Region,Urban,30,385,2045
+3133,2022,Uttar Pradesh,9,Shravasti,181,Central Region,Rural,52,987,1261
+3134,2022,Uttar Pradesh,9,Shravasti,181,Central Region,Semi-urban,22,309,799
+3135,2022,Uttar Pradesh,9,Siddharth Nagar,182,Central Region,Rural,117,2695,4508
+3136,2022,Uttar Pradesh,9,Siddharth Nagar,182,Central Region,Semi-urban,38,488,1661
+3137,2022,Uttar Pradesh,9,Sitapur,183,Central Region,Rural,175,2956,3389
+3138,2022,Uttar Pradesh,9,Sitapur,183,Central Region,Semi-urban,78,1605,3270
+3139,2022,Uttar Pradesh,9,Sitapur,183,Central Region,Urban,45,713,4064
+3140,2022,Uttar Pradesh,9,Sonbhadra,184,Central Region,Rural,74,1406,3676
+3141,2022,Uttar Pradesh,9,Sonbhadra,184,Central Region,Semi-urban,87,1221,6219
+3142,2022,Uttar Pradesh,9,Sultanpur,185,Central Region,Rural,132,2982,5512
+3143,2022,Uttar Pradesh,9,Sultanpur,185,Central Region,Semi-urban,8,201,456
+3144,2022,Uttar Pradesh,9,Sultanpur,185,Central Region,Urban,41,574,3738
+3145,2022,Uttar Pradesh,9,Unnao,186,Central Region,Rural,128,2399,5017
+3146,2022,Uttar Pradesh,9,Unnao,186,Central Region,Semi-urban,53,1161,2928
+3147,2022,Uttar Pradesh,9,Unnao,186,Central Region,Urban,39,630,4613
+3148,2022,Uttar Pradesh,9,Varanasi,187,Central Region,Rural,166,2890,7546
+3149,2022,Uttar Pradesh,9,Varanasi,187,Central Region,Semi-urban,34,620,2366
+3150,2022,Uttar Pradesh,9,Varanasi,187,Central Region,Metropolitan,336,4213,41450
+3936,2021,Bihar,10,Jamui,198,Eastern Region,Semi-urban,39,807,2222
+3937,2021,Bihar,10,Jehanabad,199,Eastern Region,Rural,55,746,1292
+3938,2021,Bihar,10,Jehanabad,199,Eastern Region,Semi-urban,10,235,567
+3939,2021,Bihar,10,Jehanabad,199,Eastern Region,Urban,29,371,1789
+3940,2021,Bihar,10,Kaimur (Bhabua),200,Eastern Region,Rural,80,1408,2225
+3941,2021,Bihar,10,Kaimur (Bhabua),200,Eastern Region,Semi-urban,32,637,1652
+3942,2021,Bihar,10,Katihar,201,Eastern Region,Rural,104,2337,1860
+3943,2021,Bihar,10,Katihar,201,Eastern Region,Semi-urban,34,777,823
+3944,2021,Bihar,10,Katihar,201,Eastern Region,Urban,48,624,3621
+3945,2021,Bihar,10,Khagaria,202,Eastern Region,Rural,35,591,591
+3946,2021,Bihar,10,Khagaria,202,Eastern Region,Semi-urban,71,1325,2723
+3947,2021,Bihar,10,Kishanganj,203,Eastern Region,Rural,59,1288,792
+3948,2021,Bihar,10,Kishanganj,203,Eastern Region,Semi-urban,19,550,445
+3949,2021,Bihar,10,Kishanganj,203,Eastern Region,Urban,29,438,1809
+3950,2021,Bihar,10,Lakhisarai,204,Eastern Region,Rural,44,628,1119
+3951,2021,Bihar,10,Lakhisarai,204,Eastern Region,Semi-urban,34,675,2008
+3952,2021,Bihar,10,Madhepura,205,Eastern Region,Rural,38,786,796
+3953,2021,Bihar,10,Madhepura,205,Eastern Region,Semi-urban,77,1620,2539
+3954,2021,Bihar,10,Madhubani,206,Eastern Region,Rural,113,1985,2407
+3955,2021,Bihar,10,Madhubani,206,Eastern Region,Semi-urban,154,2943,6530
+3956,2021,Bihar,10,Munger,207,Eastern Region,Rural,58,902,1812
+3957,2021,Bihar,10,Munger,207,Eastern Region,Semi-urban,16,312,874
+3958,2021,Bihar,10,Munger,207,Eastern Region,Urban,52,675,4485
+3959,2021,Bihar,10,Muzaffarpur,208,Eastern Region,Rural,174,3579,4840
+3960,2021,Bihar,10,Muzaffarpur,208,Eastern Region,Semi-urban,84,1809,3052
+3961,2021,Bihar,10,Muzaffarpur,208,Eastern Region,Urban,134,1381,10748
+3962,2021,Bihar,10,Nalanda,209,Eastern Region,Rural,133,1777,3489
+3963,2021,Bihar,10,Nalanda,209,Eastern Region,Semi-urban,60,1114,2872
+3964,2021,Bihar,10,Nalanda,209,Eastern Region,Urban,45,859,4154
+3965,2021,Bihar,10,Nawada,210,Eastern Region,Rural,71,1262,1530
+3966,2021,Bihar,10,Nawada,210,Eastern Region,Semi-urban,62,1504,3704
+3967,2021,Bihar,10,Pashchim Champaran,211,Eastern Region,Rural,91,2107,1625
+3968,2021,Bihar,10,Pashchim Champaran,211,Eastern Region,Semi-urban,63,2039,1503
+3969,2021,Bihar,10,Pashchim Champaran,211,Eastern Region,Urban,49,974,3099
+3970,2021,Bihar,10,Patna,212,Eastern Region,Rural,197,2939,6367
+3971,2021,Bihar,10,Patna,212,Eastern Region,Semi-urban,169,2926,9391
+3972,2021,Bihar,10,Patna,212,Eastern Region,Urban,25,462,2252
+3973,2021,Bihar,10,Patna,212,Eastern Region,Metropolitan,577,6008,106265
+3974,2021,Bihar,10,Purbi Champaran,213,Eastern Region,Rural,98,2202,2413
+3975,2021,Bihar,10,Purbi Champaran,213,Eastern Region,Semi-urban,136,2995,3977
+3976,2021,Bihar,10,Purbi Champaran,213,Eastern Region,Urban,47,578,3453
+3977,2021,Bihar,10,Purnia,214,Eastern Region,Rural,92,2158,1508
+3978,2021,Bihar,10,Purnia,214,Eastern Region,Semi-urban,52,1030,1037
+3979,2021,Bihar,10,Purnia,214,Eastern Region,Urban,82,982,4208
+3980,2021,Bihar,10,Rohtas,215,Eastern Region,Rural,120,1723,3064
+3981,2021,Bihar,10,Rohtas,215,Eastern Region,Semi-urban,46,1111,2175
+3982,2021,Bihar,10,Rohtas,215,Eastern Region,Urban,53,894,4236
+3983,2021,Bihar,10,Saharsa,216,Eastern Region,Rural,46,1130,1072
+3984,2021,Bihar,10,Saharsa,216,Eastern Region,Semi-urban,25,616,785
+3985,2021,Bihar,10,Saharsa,216,Eastern Region,Urban,33,452,2294
+3986,2021,Bihar,10,Samastipur,217,Eastern Region,Rural,137,2462,3710
+3987,2021,Bihar,10,Samastipur,217,Eastern Region,Semi-urban,146,3054,6702
+3988,2021,Bihar,10,Saran,218,Eastern Region,Rural,161,7651,6093
+3989,2021,Bihar,10,Saran,218,Eastern Region,Semi-urban,51,1444,2911
+3990,2021,Bihar,10,Saran,218,Eastern Region,Urban,49,725,5081
+3991,2021,Bihar,10,Sheikhpura,219,Eastern Region,Rural,30,277,427
+3992,2021,Bihar,10,Sheikhpura,219,Eastern Region,Semi-urban,29,553,1482
+3993,2021,Bihar,10,Sheohar,220,Eastern Region,Rural,18,309,288
+3994,2021,Bihar,10,Sheohar,220,Eastern Region,Semi-urban,24,391,601
+3995,2021,Bihar,10,Sitamarhi,221,Eastern Region,Rural,51,1123,1237
+3996,2021,Bihar,10,Sitamarhi,221,Eastern Region,Semi-urban,114,2525,4955
+3997,2021,Bihar,10,Siwan,222,Eastern Region,Rural,125,2542,4463
+3998,2021,Bihar,10,Siwan,222,Eastern Region,Semi-urban,58,1587,3291
+3999,2021,Bihar,10,Siwan,222,Eastern Region,Urban,56,817,4495
+4000,2021,Bihar,10,Supaul,223,Eastern Region,Rural,45,1020,1079
+4001,2021,Bihar,10,Supaul,223,Eastern Region,Semi-urban,76,1594,2717
+4002,2021,Bihar,10,Vaishali,224,Eastern Region,Rural,134,3030,3950
+4003,2021,Bihar,10,Vaishali,224,Eastern Region,Semi-urban,61,1718,2970
+4004,2021,Bihar,10,Vaishali,224,Eastern Region,Urban,50,672,3478
+4005,2021,Chandigarh,4,Chandigarh,44,Northern Region,Rural,0,0,0
+4006,2021,Chandigarh,4,Chandigarh,44,Northern Region,Semi-urban,0,0,0
+4007,2021,Chandigarh,4,Chandigarh,44,Northern Region,Urban,0,0,0
+4008,2021,Chandigarh,4,Chandigarh,44,Northern Region,Rural,11,113,612
+4009,2021,Chandigarh,4,Chandigarh,44,Northern Region,Semi-urban,6,50,263
+4010,2021,Chandigarh,4,Chandigarh,44,Northern Region,Urban,425,4112,80445
+4167,2021,Delhi,7,Central,77,Northern Region,Urban,6,101,588
+4168,2021,Delhi,7,Central,77,Northern Region,Metropolitan,446,5765,200991
+4169,2021,Delhi,7,East,78,Northern Region,Semi-urban,3,42,404
+4170,2021,Delhi,7,East,78,Northern Region,Metropolitan,230,3536,55127
+4172,2021,Delhi,7,New Delhi,79,Northern Region,Semi-urban,11,161,1384
+4173,2021,Delhi,7,New Delhi,79,Northern Region,Metropolitan,682,8283,537708
+4174,2021,Delhi,7,North,80,Northern Region,Rural,17,164,1100
+4175,2021,Delhi,7,North,80,Northern Region,Semi-urban,21,292,1895
+4176,2021,Delhi,7,North,80,Northern Region,Metropolitan,210,2985,46067
+4177,2021,Delhi,7,North East,81,Northern Region,Rural,7,184,921
+4178,2021,Delhi,7,North East,81,Northern Region,Urban,11,205,2051
+4179,2021,Delhi,7,North East,81,Northern Region,Metropolitan,52,1405,8643
+4180,2021,Delhi,7,North West,82,Northern Region,Rural,12,131,878
+4181,2021,Delhi,7,North West,82,Northern Region,Semi-urban,19,331,2498
+4182,2021,Delhi,7,North West,82,Northern Region,Urban,20,319,3644
+4183,2021,Delhi,7,North West,82,Northern Region,Metropolitan,308,4096,58461
+4184,2021,Delhi,7,Shahdara,671,Northern Region,Metropolitan,120,2443,27025
+4185,2021,Delhi,7,South,83,Northern Region,Rural,8,145,1581
+4186,2021,Delhi,7,South,83,Northern Region,Semi-urban,21,327,4139
+4187,2021,Delhi,7,South,83,Northern Region,Metropolitan,360,4786,149550
+4188,2021,Delhi,7,South East,670,Northern Region,Semi-urban,13,234,1995
+4189,2021,Delhi,7,South East,670,Northern Region,Metropolitan,296,4427,108047
+4190,2021,Delhi,7,South West,84,Northern Region,Rural,27,278,2144
+4191,2021,Delhi,7,South West,84,Northern Region,Semi-urban,26,358,6288
+4192,2021,Delhi,7,South West,84,Northern Region,Metropolitan,290,4057,72385
+4193,2021,Delhi,7,West,85,Northern Region,Rural,5,63,835
+4200,2021,Goa,30,North Goa,551,Western Region,Rural,160,1164,11448
+4201,2021,Goa,30,North Goa,551,Western Region,Semi-urban,246,2083,37669
+4202,2021,Goa,30,South Goa,552,Western Region,Rural,109,811,8664
+4296,2021,Gujarat,24,Ahmadabad,438,Western Region,Rural,91,698,2659
+4297,2021,Gujarat,24,Ahmadabad,438,Western Region,Semi-urban,136,1403,8772
+4298,2021,Gujarat,24,Ahmadabad,438,Western Region,Metropolitan,1168,14054,222392
+4299,2021,Gujarat,24,Amreli,439,Western Region,Rural,72,620,1798
+4300,2021,Gujarat,24,Amreli,439,Western Region,Semi-urban,59,866,3470
+4301,2021,Gujarat,24,Amreli,439,Western Region,Urban,38,340,2348
+4302,2021,Gujarat,24,Anand,440,Western Region,Rural,124,1279,5464
+4303,2021,Gujarat,24,Anand,440,Western Region,Semi-urban,161,2195,14481
+4304,2021,Gujarat,24,Anand,440,Western Region,Urban,80,807,14062
+4305,2021,Gujarat,24,Arvalli,672,Western Region,Rural,50,696,1139
+4306,2021,Gujarat,24,Arvalli,672,Western Region,Semi-urban,53,806,2679
+4307,2021,Gujarat,24,Banas Kantha,441,Western Region,Rural,88,1334,2268
+4308,2021,Gujarat,24,Banas Kantha,441,Western Region,Semi-urban,48,1383,2457
+4309,2021,Gujarat,24,Banas Kantha,441,Western Region,Urban,71,957,4639
+4310,2021,Gujarat,24,Bharuch,442,Western Region,Rural,101,1011,3554
+4311,2021,Gujarat,24,Bharuch,442,Western Region,Semi-urban,102,1351,8636
+4312,2021,Gujarat,24,Bharuch,442,Western Region,Urban,66,826,8922
+4313,2021,Gujarat,24,Bhavnagar,443,Western Region,Rural,75,915,2051
+4314,2021,Gujarat,24,Bhavnagar,443,Western Region,Semi-urban,65,1075,3514
+4315,2021,Gujarat,24,Bhavnagar,443,Western Region,Urban,110,1468,13055
+4316,2021,Gujarat,24,Botad,676,Western Region,Rural,20,169,311
+4317,2021,Gujarat,24,Botad,676,Western Region,Semi-urban,17,345,795
+4318,2021,Gujarat,24,Botad,676,Western Region,Urban,19,286,1167
+4319,2021,Gujarat,24,Chhotaudepur,668,Western Region,Rural,56,860,1558
+4320,2021,Gujarat,24,Chhotaudepur,668,Western Region,Semi-urban,32,325,1146
+4321,2021,Gujarat,24,Dang,444,Western Region,Rural,7,146,236
+4322,2021,Gujarat,24,Dang,444,Western Region,Semi-urban,8,196,498
+4323,2021,Gujarat,24,Devbhumi Dwarka,674,Western Region,Rural,29,281,1154
+4324,2021,Gujarat,24,Devbhumi Dwarka,674,Western Region,Semi-urban,58,777,3880
+4325,2021,Gujarat,24,Dohad,445,Western Region,Rural,52,1257,1079
+4326,2021,Gujarat,24,Dohad,445,Western Region,Semi-urban,30,836,1406
+4327,2021,Gujarat,24,Dohad,445,Western Region,Urban,31,564,2646
+4328,2021,Gujarat,24,Gandhinagar,446,Western Region,Rural,103,785,3072
+4329,2021,Gujarat,24,Gandhinagar,446,Western Region,Semi-urban,57,615,4123
+4330,2021,Gujarat,24,Gandhinagar,446,Western Region,Urban,149,1417,29472
+4331,2021,Gujarat,24,Gir Somnath,675,Western Region,Rural,39,502,1178
+4332,2021,Gujarat,24,Gir Somnath,675,Western Region,Semi-urban,36,648,2321
+4333,2021,Gujarat,24,Gir Somnath,675,Western Region,Urban,34,395,2421
+4334,2021,Gujarat,24,Jamnagar,447,Western Region,Rural,78,690,2979
+4335,2021,Gujarat,24,Jamnagar,447,Western Region,Semi-urban,39,454,2236
+4336,2021,Gujarat,24,Jamnagar,447,Western Region,Urban,109,1422,13561
+4337,2021,Gujarat,24,Junagadh,448,Western Region,Rural,75,637,2658
+4338,2021,Gujarat,24,Junagadh,448,Western Region,Semi-urban,61,944,4458
+4339,2021,Gujarat,24,Junagadh,448,Western Region,Urban,63,721,6712
+4340,2021,Gujarat,24,Kachchh,449,Western Region,Rural,133,1244,10827
+4341,2021,Gujarat,24,Kachchh,449,Western Region,Semi-urban,112,1363,10221
+4342,2021,Gujarat,24,Kachchh,449,Western Region,Urban,135,1375,21594
+4343,2021,Gujarat,24,Kheda,450,Western Region,Rural,111,1283,3577
+4344,2021,Gujarat,24,Kheda,450,Western Region,Semi-urban,79,1250,4400
+4345,2021,Gujarat,24,Kheda,450,Western Region,Urban,57,786,8205
+4346,2021,Gujarat,24,Mahesana,451,Western Region,Rural,137,1197,3004
+4347,2021,Gujarat,24,Mahesana,451,Western Region,Semi-urban,120,1690,8368
+4348,2021,Gujarat,24,Mahesana,451,Western Region,Urban,64,730,5621
+4349,2021,Gujarat,24,Mahisagar,669,Western Region,Rural,48,821,1556
+4350,2021,Gujarat,24,Mahisagar,669,Western Region,Semi-urban,33,512,2373
+4351,2021,Gujarat,24,Morbi,673,Western Region,Rural,57,391,1160
+4352,2021,Gujarat,24,Morbi,673,Western Region,Semi-urban,30,374,1421
+4353,2021,Gujarat,24,Morbi,673,Western Region,Urban,51,545,6325
+4354,2021,Gujarat,24,Narmada,452,Western Region,Rural,29,623,952
+4355,2021,Gujarat,24,Narmada,452,Western Region,Semi-urban,27,275,1350
+4356,2021,Gujarat,24,Navsari,453,Western Region,Rural,128,1305,7799
+4357,2021,Gujarat,24,Navsari,453,Western Region,Semi-urban,46,729,4479
+4358,2021,Gujarat,24,Navsari,453,Western Region,Urban,77,924,10653
+4359,2021,Gujarat,24,Panch Mahals,454,Western Region,Rural,70,1164,1649
+4360,2021,Gujarat,24,Panch Mahals,454,Western Region,Semi-urban,42,701,2490
+4361,2021,Gujarat,24,Panch Mahals,454,Western Region,Urban,39,520,2906
+4362,2021,Gujarat,24,Patan,455,Western Region,Rural,55,661,1075
+4363,2021,Gujarat,24,Patan,455,Western Region,Semi-urban,42,785,2311
+4364,2021,Gujarat,24,Patan,455,Western Region,Urban,36,497,2470
+4365,2021,Gujarat,24,Porbandar,456,Western Region,Rural,25,209,1100
+4366,2021,Gujarat,24,Porbandar,456,Western Region,Semi-urban,14,259,1220
+4367,2021,Gujarat,24,Porbandar,456,Western Region,Urban,44,576,6877
+4368,2021,Gujarat,24,Rajkot,457,Western Region,Rural,125,924,3519
+4369,2021,Gujarat,24,Rajkot,457,Western Region,Semi-urban,65,779,3844
+4370,2021,Gujarat,24,Rajkot,457,Western Region,Urban,47,526,3885
+4371,2021,Gujarat,24,Rajkot,457,Western Region,Metropolitan,268,3020,39355
+4372,2021,Gujarat,24,Sabar Kantha,458,Western Region,Rural,84,955,1836
+4373,2021,Gujarat,24,Sabar Kantha,458,Western Region,Semi-urban,103,1209,5614
+4374,2021,Gujarat,24,Surat,459,Western Region,Rural,150,1252,5872
+4375,2021,Gujarat,24,Surat,459,Western Region,Semi-urban,144,1723,11649
+4376,2021,Gujarat,24,Surat,459,Western Region,Metropolitan,558,7457,61023
+4377,2021,Gujarat,24,Surendranagar,460,Western Region,Rural,75,755,1417
+4378,2021,Gujarat,24,Surendranagar,460,Western Region,Semi-urban,68,944,3600
+4379,2021,Gujarat,24,Surendranagar,460,Western Region,Urban,46,544,4094
+4380,2021,Gujarat,24,Tapi,641,Western Region,Rural,24,493,951
+4381,2021,Gujarat,24,Tapi,641,Western Region,Semi-urban,33,560,2387
+4382,2021,Gujarat,24,Vadodara,461,Western Region,Rural,163,1423,7117
+4383,2021,Gujarat,24,Vadodara,461,Western Region,Semi-urban,60,709,3166
+4384,2021,Gujarat,24,Vadodara,461,Western Region,Metropolitan,518,6189,96044
+4385,2021,Gujarat,24,Valsad,462,Western Region,Rural,73,1093,3631
+4386,2021,Gujarat,24,Valsad,462,Western Region,Semi-urban,64,1093,5300
+4387,2021,Gujarat,24,Valsad,462,Western Region,Urban,113,1333,10447
+4450,2021,Haryana,6,Ambala,58,Northern Region,Rural,111,816,3518
+4451,2021,Haryana,6,Ambala,58,Northern Region,Semi-urban,42,475,3059
+4452,2021,Haryana,6,Ambala,58,Northern Region,Urban,129,1406,14613
+4453,2021,Haryana,6,Bhiwani,59,Northern Region,Rural,59,518,1180
+4454,2021,Haryana,6,Bhiwani,59,Northern Region,Semi-urban,47,568,2025
+4455,2021,Haryana,6,Bhiwani,59,Northern Region,Urban,53,689,4929
+4456,2021,Haryana,6,Charki Dadri,701,Northern Region,Rural,28,369,1227
+4457,2021,Haryana,6,Charki Dadri,701,Northern Region,Semi-urban,26,345,2255
+4458,2021,Haryana,6,Faridabad,60,Northern Region,Rural,40,372,1826
+4459,2021,Haryana,6,Faridabad,60,Northern Region,Semi-urban,14,148,670
+4460,2021,Haryana,6,Faridabad,60,Northern Region,Metropolitan,291,4132,50638
+4461,2021,Haryana,6,Fatehabad,61,Northern Region,Rural,67,530,1127
+4462,2021,Haryana,6,Fatehabad,61,Northern Region,Semi-urban,93,1078,4831
+4463,2021,Haryana,6,Gurugram,62,Northern Region,Rural,105,546,4192
+4464,2021,Haryana,6,Gurugram,62,Northern Region,Semi-urban,108,1261,12248
+4465,2021,Haryana,6,Gurugram,62,Northern Region,Urban,614,7594,213438
+4466,2021,Haryana,6,Hisar,63,Northern Region,Rural,103,906,2160
+4467,2021,Haryana,6,Hisar,63,Northern Region,Semi-urban,79,978,3748
+4468,2021,Haryana,6,Hisar,63,Northern Region,Urban,107,1098,11929
+4469,2021,Haryana,6,Jhajjar,64,Northern Region,Rural,85,629,3166
+4470,2021,Haryana,6,Jhajjar,64,Northern Region,Semi-urban,43,444,2936
+4471,2021,Haryana,6,Jhajjar,64,Northern Region,Urban,43,551,5847
+4472,2021,Haryana,6,Jind,65,Northern Region,Rural,61,570,1540
+4473,2021,Haryana,6,Jind,65,Northern Region,Semi-urban,66,817,2860
+4474,2021,Haryana,6,Jind,65,Northern Region,Urban,48,538,3610
+4475,2021,Haryana,6,Kaithal,66,Northern Region,Rural,51,402,758
+4476,2021,Haryana,6,Kaithal,66,Northern Region,Semi-urban,70,846,2727
+4477,2021,Haryana,6,Kaithal,66,Northern Region,Urban,49,763,3187
+4478,2021,Haryana,6,Karnal,67,Northern Region,Rural,111,787,2281
+4479,2021,Haryana,6,Karnal,67,Northern Region,Semi-urban,92,865,3500
+4480,2021,Haryana,6,Karnal,67,Northern Region,Urban,146,1449,12530
+4481,2021,Haryana,6,Kurukshetra,68,Northern Region,Rural,96,719,2788
+4482,2021,Haryana,6,Kurukshetra,68,Northern Region,Semi-urban,76,753,4110
+4483,2021,Haryana,6,Kurukshetra,68,Northern Region,Urban,66,573,5961
+4484,2021,Haryana,6,Mahendragarh,69,Northern Region,Rural,60,671,2553
+4485,2021,Haryana,6,Mahendragarh,69,Northern Region,Semi-urban,66,886,5103
+4486,2021,Haryana,6,Nuh,604,Northern Region,Rural,41,346,861
+4487,2021,Haryana,6,Nuh,604,Northern Region,Semi-urban,43,778,1950
+4488,2021,Haryana,6,Palwal,619,Northern Region,Rural,48,402,1036
+4489,2021,Haryana,6,Palwal,619,Northern Region,Semi-urban,31,494,1409
+4490,2021,Haryana,6,Palwal,619,Northern Region,Urban,38,633,3147
+4491,2021,Haryana,6,Panchkula,70,Northern Region,Rural,51,440,2402
+4492,2021,Haryana,6,Panchkula,70,Northern Region,Semi-urban,32,288,2297
+4493,2021,Haryana,6,Panchkula,70,Northern Region,Urban,167,1249,29734
+4494,2021,Haryana,6,Panipat,71,Northern Region,Rural,78,583,1820
+4495,2021,Haryana,6,Panipat,71,Northern Region,Semi-urban,46,446,1655
+4496,2021,Haryana,6,Panipat,71,Northern Region,Urban,131,1364,10763
+4497,2021,Haryana,6,Rewari,72,Northern Region,Rural,89,861,4019
+4498,2021,Haryana,6,Rewari,72,Northern Region,Semi-urban,32,369,2055
+4499,2021,Haryana,6,Rewari,72,Northern Region,Urban,67,740,7558
+4500,2021,Haryana,6,Rohtak,73,Northern Region,Rural,77,579,2415
+4501,2021,Haryana,6,Rohtak,73,Northern Region,Semi-urban,32,359,1831
+4502,2021,Haryana,6,Rohtak,73,Northern Region,Urban,134,1258,14036
+4503,2021,Haryana,6,Sirsa,74,Northern Region,Rural,82,794,1905
+4504,2021,Haryana,6,Sirsa,74,Northern Region,Semi-urban,64,724,2628
+4505,2021,Haryana,6,Sirsa,74,Northern Region,Urban,66,939,4732
+4506,2021,Haryana,6,Sonipat,75,Northern Region,Rural,127,930,4609
+4507,2021,Haryana,6,Sonipat,75,Northern Region,Semi-urban,91,829,5556
+4508,2021,Haryana,6,Sonipat,75,Northern Region,Urban,83,873,10967
+4509,2021,Haryana,6,Yamunanagar,76,Northern Region,Rural,89,803,2488
+4510,2021,Haryana,6,Yamunanagar,76,Northern Region,Semi-urban,38,431,1602
+4511,2021,Haryana,6,Yamunanagar,76,Northern Region,Urban,103,1189,10020
+4534,2021,Himachal Pradesh,2,Bilaspur,375,Northern Region,Rural,67,573,3704
+4535,2021,Himachal Pradesh,2,Bilaspur,375,Northern Region,Semi-urban,19,135,1274
+4536,2021,Himachal Pradesh,2,Chamba,16,Northern Region,Rural,71,617,3063
+4537,2021,Himachal Pradesh,2,Chamba,16,Northern Region,Semi-urban,20,163,1371
+4538,2021,Himachal Pradesh,2,Hamirpur,17,Northern Region,Rural,95,915,6081
+4539,2021,Himachal Pradesh,2,Hamirpur,17,Northern Region,Semi-urban,33,236,2720
+4540,2021,Himachal Pradesh,2,Kangra,18,Northern Region,Rural,265,2677,20352
+4541,2021,Himachal Pradesh,2,Kangra,18,Northern Region,Semi-urban,38,242,3956
+4542,2021,Himachal Pradesh,2,Kinnaur,19,Northern Region,Rural,33,131,1094
+4543,2021,Himachal Pradesh,2,Kullu,20,Northern Region,Rural,75,664,4475
+4544,2021,Himachal Pradesh,2,Kullu,20,Northern Region,Semi-urban,26,220,1959
+4545,2021,Himachal Pradesh,2,Lahul and Spiti,21,Northern Region,Rural,16,63,598
+4546,2021,Himachal Pradesh,2,Mandi,22,Northern Region,Rural,139,1346,8218
+4547,2021,Himachal Pradesh,2,Mandi,22,Northern Region,Semi-urban,56,499,5251
+4548,2021,Himachal Pradesh,2,Shimla,23,Northern Region,Rural,178,984,7275
+4549,2021,Himachal Pradesh,2,Shimla,23,Northern Region,Urban,104,654,16668
+4550,2021,Himachal Pradesh,2,Sirmaur,24,Northern Region,Rural,72,526,2261
+4551,2021,Himachal Pradesh,2,Sirmaur,24,Northern Region,Semi-urban,35,294,2394
+4552,2021,Himachal Pradesh,2,Solan,25,Northern Region,Rural,134,839,5773
+4553,2021,Himachal Pradesh,2,Solan,25,Northern Region,Semi-urban,90,855,5953
+4554,2021,Himachal Pradesh,2,Una,26,Northern Region,Rural,87,907,5628
+4555,2021,Himachal Pradesh,2,Una,26,Northern Region,Semi-urban,30,270,2278
+4597,2021,Jammu and Kashmir,1,Anantnag,1,Northern Region,Rural,61,880,2723
+4598,2021,Jammu and Kashmir,1,Anantnag,1,Northern Region,Semi-urban,20,253,1021
+4599,2021,Jammu and Kashmir,1,Anantnag,1,Northern Region,Urban,29,313,2072
+4600,2021,Jammu and Kashmir,1,Budgam,2,Northern Region,Rural,68,854,2612
+4601,2021,Jammu and Kashmir,1,Budgam,2,Northern Region,Semi-urban,13,161,674
+4602,2021,Jammu and Kashmir,1,Budgam,2,Northern Region,Metropolitan,6,83,632
+4603,2021,Jammu and Kashmir,1,Bandipora,623,Northern Region,Rural,22,189,388
+4604,2021,Jammu and Kashmir,1,Bandipora,623,Northern Region,Semi-urban,16,340,1055
+4605,2021,Jammu and Kashmir,1,Baramulla,3,Northern Region,Rural,87,1137,2713
+4606,2021,Jammu and Kashmir,1,Baramulla,3,Northern Region,Semi-urban,54,581,2954
+4607,2021,Jammu and Kashmir,1,Doda,4,Northern Region,Rural,34,419,1228
+4608,2021,Jammu and Kashmir,1,Doda,4,Northern Region,Semi-urban,17,234,1336
+4609,2021,Jammu and Kashmir,1,Ganderbal,626,Northern Region,Rural,27,359,927
+4610,2021,Jammu and Kashmir,1,Ganderbal,626,Northern Region,Semi-urban,9,115,672
+4611,2021,Jammu and Kashmir,1,Jammu,5,Northern Region,Rural,91,1034,4968
+4612,2021,Jammu and Kashmir,1,Jammu,5,Northern Region,Semi-urban,45,638,4002
+4616,2021,Jammu and Kashmir,1,Kathua,7,Northern Region,Rural,69,941,4611
+4617,2021,Jammu and Kashmir,1,Kathua,7,Northern Region,Semi-urban,29,343,2361
+4618,2021,Jammu and Kashmir,1,Kishtwar,620,Northern Region,Rural,14,197,515
+4619,2021,Jammu and Kashmir,1,Kishtwar,620,Northern Region,Semi-urban,15,217,1426
+4620,2021,Jammu and Kashmir,1,Kulgam,622,Northern Region,Rural,37,454,1230
+4621,2021,Jammu and Kashmir,1,Kulgam,622,Northern Region,Semi-urban,14,276,1092
+4622,2021,Jammu and Kashmir,1,Kupwara,8,Northern Region,Rural,44,679,1252
+4623,2021,Jammu and Kashmir,1,Kupwara,8,Northern Region,Semi-urban,28,552,1535
+4629,2021,Jammu and Kashmir,1,Pulwama,11,Northern Region,Semi-urban,26,427,2373
+4630,2021,Jammu and Kashmir,1,Rajouri,12,Northern Region,Rural,55,791,2699
+4631,2021,Jammu and Kashmir,1,Rajouri,12,Northern Region,Semi-urban,23,375,2451
+4632,2021,Jammu and Kashmir,1,Ramban,621,Northern Region,Rural,29,439,1651
+4633,2021,Jammu and Kashmir,1,Reasi,627,Northern Region,Rural,52,585,2816
+4634,2021,Jammu and Kashmir,1,Samba,624,Northern Region,Rural,45,503,2981
+4635,2021,Jammu and Kashmir,1,Samba,624,Northern Region,Semi-urban,31,324,2224
+4636,2021,Jammu and Kashmir,1,Shopian,625,Northern Region,Rural,26,256,758
+4637,2021,Jammu and Kashmir,1,Shopian,625,Northern Region,Semi-urban,9,168,772
+4638,2021,Jammu and Kashmir,1,Srinagar,13,Northern Region,Rural,21,187,1742
+4639,2021,Jammu and Kashmir,1,Srinagar,13,Northern Region,Metropolitan,182,2007,28459
+4640,2021,Jammu and Kashmir,1,Udhampur,14,Northern Region,Rural,41,563,2029
+4641,2021,Jammu and Kashmir,1,Udhampur,14,Northern Region,Semi-urban,33,377,3180
+4698,2021,Jharkhand,20,Bokaro,322,Eastern Region,Rural,78,1424,4445
+4699,2021,Jharkhand,20,Bokaro,322,Eastern Region,Semi-urban,48,771,4109
+4700,2021,Jharkhand,20,Bokaro,322,Eastern Region,Urban,98,1237,12007
+4701,2021,Jharkhand,20,Chatra,323,Eastern Region,Rural,39,1040,1664
+4702,2021,Jharkhand,20,Chatra,323,Eastern Region,Semi-urban,20,255,1823
+4703,2021,Jharkhand,20,Deoghar,324,Eastern Region,Rural,65,1519,1881
+4704,2021,Jharkhand,20,Deoghar,324,Eastern Region,Semi-urban,18,305,775
+4705,2021,Jharkhand,20,Deoghar,324,Eastern Region,Urban,54,709,4830
+4706,2021,Jharkhand,20,Dhanbad,325,Eastern Region,Rural,59,1051,3180
+4707,2021,Jharkhand,20,Dhanbad,325,Eastern Region,Semi-urban,52,770,3356
+4708,2021,Jharkhand,20,Dhanbad,325,Eastern Region,Metropolitan,179,2310,23067
+4709,2021,Jharkhand,20,Dumka,326,Eastern Region,Rural,81,1491,1973
+4710,2021,Jharkhand,20,Dumka,326,Eastern Region,Semi-urban,38,523,2650
+4711,2021,Jharkhand,20,Garhwa,328,Eastern Region,Rural,40,1055,1229
+4712,2021,Jharkhand,20,Garhwa,328,Eastern Region,Semi-urban,30,600,1527
+4713,2021,Jharkhand,20,Giridih,329,Eastern Region,Rural,116,2601,4742
+4714,2021,Jharkhand,20,Giridih,329,Eastern Region,Semi-urban,7,166,368
+4715,2021,Jharkhand,20,Giridih,329,Eastern Region,Urban,41,474,2973
+4716,2021,Jharkhand,20,Godda,330,Eastern Region,Rural,72,1327,2055
+4717,2021,Jharkhand,20,Godda,330,Eastern Region,Semi-urban,34,476,2146
+4718,2021,Jharkhand,20,Gumla,331,Eastern Region,Rural,38,804,1173
+4719,2021,Jharkhand,20,Gumla,331,Eastern Region,Semi-urban,29,464,1832
+4720,2021,Jharkhand,20,Hazaribagh,332,Eastern Region,Rural,81,1483,3183
+4721,2021,Jharkhand,20,Hazaribagh,332,Eastern Region,Semi-urban,28,392,975
+4722,2021,Jharkhand,20,Hazaribagh,332,Eastern Region,Urban,60,771,5681
+4723,2021,Jharkhand,20,Jamtara,333,Eastern Region,Rural,36,762,1026
+4724,2021,Jharkhand,20,Jamtara,333,Eastern Region,Semi-urban,27,359,1455
+4725,2021,Jharkhand,20,Khunti,606,Eastern Region,Rural,27,476,756
+4726,2021,Jharkhand,20,Khunti,606,Eastern Region,Semi-urban,22,280,1012
+4727,2021,Jharkhand,20,Koderma,334,Eastern Region,Rural,31,583,1297
+4728,2021,Jharkhand,20,Koderma,334,Eastern Region,Semi-urban,34,505,2168
+4729,2021,Jharkhand,20,Latehar,335,Eastern Region,Rural,21,662,915
+4730,2021,Jharkhand,20,Latehar,335,Eastern Region,Semi-urban,24,369,1044
+4731,2021,Jharkhand,20,Lohardaga,336,Eastern Region,Rural,23,419,470
+4732,2021,Jharkhand,20,Lohardaga,336,Eastern Region,Semi-urban,20,294,1167
+4733,2021,Jharkhand,20,Pakur,337,Eastern Region,Rural,38,792,749
+4734,2021,Jharkhand,20,Pakur,337,Eastern Region,Semi-urban,27,384,1032
+4735,2021,Jharkhand,20,Palamu,338,Eastern Region,Rural,72,1646,2118
+4736,2021,Jharkhand,20,Palamu,338,Eastern Region,Semi-urban,55,1115,4435
+4737,2021,Jharkhand,20,West Singhbhum,343,Eastern Region,Rural,72,1073,1745
+4738,2021,Jharkhand,20,West Singhbhum,343,Eastern Region,Semi-urban,57,832,25759
+4739,2021,Jharkhand,20,East Singhbum,327,Eastern Region,Rural,75,1182,2488
+4740,2021,Jharkhand,20,East Singhbum,327,Eastern Region,Semi-urban,57,800,4241
+4741,2021,Jharkhand,20,East Singhbum,327,Eastern Region,Urban,205,2363,25569
+4742,2021,Jharkhand,20,Ramgarh,607,Eastern Region,Rural,42,549,1784
+4743,2021,Jharkhand,20,Ramgarh,607,Eastern Region,Semi-urban,72,942,5573
+4744,2021,Jharkhand,20,Ranchi,339,Eastern Region,Rural,136,1956,4720
+4745,2021,Jharkhand,20,Ranchi,339,Eastern Region,Semi-urban,41,681,2579
+4746,2021,Jharkhand,20,Ranchi,339,Eastern Region,Metropolitan,325,3272,58429
+4747,2021,Jharkhand,20,Sahebganj,340,Eastern Region,Rural,42,822,941
+4748,2021,Jharkhand,20,Sahebganj,340,Eastern Region,Semi-urban,40,873,2056
+4749,2021,Jharkhand,20,Saraikela Kharsawan,341,Eastern Region,Rural,74,1074,2356
+4750,2021,Jharkhand,20,Saraikela Kharsawan,341,Eastern Region,Semi-urban,20,184,715
+4751,2021,Jharkhand,20,Saraikela Kharsawan,341,Eastern Region,Urban,28,237,2183
+4752,2021,Jharkhand,20,Simdega,342,Eastern Region,Rural,25,521,761
+4753,2021,Jharkhand,20,Simdega,342,Eastern Region,Semi-urban,17,231,882
+4840,2021,Karnataka,29,Bagalkote,524,Southern Region,Rural,98,1101,1533
+4841,2021,Karnataka,29,Bagalkote,524,Southern Region,Semi-urban,122,1710,4290
+4842,2021,Karnataka,29,Bagalkote,524,Southern Region,Urban,49,535,4147
+4843,2021,Karnataka,29,Bengaluru Rural,526,Southern Region,Rural,103,770,4076
+4844,2021,Karnataka,29,Bengaluru Rural,526,Southern Region,Semi-urban,122,1400,8325
+4845,2021,Karnataka,29,Bengaluru Urban,525,Southern Region,Rural,136,939,5039
+4846,2021,Karnataka,29,Bengaluru Urban,525,Southern Region,Semi-urban,87,803,4862
+4847,2021,Karnataka,29,Bengaluru Urban,525,Southern Region,Metropolitan,2516,32237,847348
+4848,2021,Karnataka,29,Belagavi,527,Southern Region,Rural,232,2898,4463
+4849,2021,Karnataka,29,Belagavi,527,Southern Region,Semi-urban,243,3912,11104
+4850,2021,Karnataka,29,Belagavi,527,Southern Region,Urban,161,1848,16351
+4851,2021,Karnataka,29,Ballari,528,Southern Region,Rural,123,1865,2154
+4852,2021,Karnataka,29,Ballari,528,Southern Region,Semi-urban,90,1587,4454
+4853,2021,Karnataka,29,Ballari,528,Southern Region,Urban,136,1488,10818
+4854,2021,Karnataka,29,Bidar,529,Southern Region,Rural,68,758,967
+4855,2021,Karnataka,29,Bidar,529,Southern Region,Semi-urban,55,1038,2057
+4856,2021,Karnataka,29,Bidar,529,Southern Region,Urban,50,640,2830
+4857,2021,Karnataka,29,Bijapur,636,Southern Region,Rural,111,1364,1940
+4858,2021,Karnataka,29,Bijapur,636,Southern Region,Semi-urban,80,1249,2719
+4859,2021,Karnataka,29,Bijapur,636,Southern Region,Urban,72,882,5977
+4860,2021,Karnataka,29,Chamarajanagara,531,Southern Region,Rural,68,854,1160
+4861,2021,Karnataka,29,Chamarajanagara,531,Southern Region,Semi-urban,70,969,2144
+4862,2021,Karnataka,29,Chikkaballapura,630,Southern Region,Rural,95,1066,1839
+4863,2021,Karnataka,29,Chikkaballapura,630,Southern Region,Semi-urban,68,917,3102
+4864,2021,Karnataka,29,Chikkamagaluru,532,Southern Region,Rural,164,1244,4785
+4865,2021,Karnataka,29,Chikkamagaluru,532,Southern Region,Semi-urban,53,514,2215
+4866,2021,Karnataka,29,Chikkamagaluru,532,Southern Region,Urban,51,441,2930
+4867,2021,Karnataka,29,Chitradurga,533,Southern Region,Rural,121,1447,2025
+4868,2021,Karnataka,29,Chitradurga,533,Southern Region,Semi-urban,62,926,2328
+4869,2021,Karnataka,29,Chitradurga,533,Southern Region,Urban,48,526,2945
+4870,2021,Karnataka,29,Dakshina Kannada,534,Southern Region,Rural,214,1720,6664
+4871,2021,Karnataka,29,Dakshina Kannada,534,Southern Region,Semi-urban,127,1417,8099
+4872,2021,Karnataka,29,Dakshina Kannada,534,Southern Region,Urban,273,2358,34660
+4873,2021,Karnataka,29,Davangere,535,Southern Region,Rural,94,1137,1561
+4874,2021,Karnataka,29,Davangere,535,Southern Region,Semi-urban,49,738,1911
+4875,2021,Karnataka,29,Davangere,535,Southern Region,Urban,92,1219,5535
+4876,2021,Karnataka,29,Dharwad,536,Southern Region,Rural,85,965,2122
+4877,2021,Karnataka,29,Dharwad,536,Southern Region,Semi-urban,34,543,1200
+4878,2021,Karnataka,29,Dharwad,536,Southern Region,Urban,265,3205,23866
+4879,2021,Karnataka,29,Gadag,537,Southern Region,Rural,70,715,1204
+4880,2021,Karnataka,29,Gadag,537,Southern Region,Semi-urban,53,765,1939
+4881,2021,Karnataka,29,Gadag,537,Southern Region,Urban,39,457,2618
+4882,2021,Karnataka,29,Kalaburagi,538,Southern Region,Rural,100,1468,1675
+4883,2021,Karnataka,29,Kalaburagi,538,Southern Region,Semi-urban,62,1221,2563
+4884,2021,Karnataka,29,Kalaburagi,538,Southern Region,Urban,111,1359,9906
+4885,2021,Karnataka,29,Hassan,539,Southern Region,Rural,191,1651,3472
+4886,2021,Karnataka,29,Hassan,539,Southern Region,Semi-urban,74,946,3458
+4887,2021,Karnataka,29,Hassan,539,Southern Region,Urban,71,694,4168
+4888,2021,Karnataka,29,Haveri,540,Southern Region,Rural,109,1329,1669
+4889,2021,Karnataka,29,Haveri,540,Southern Region,Semi-urban,74,1212,3602
+4890,2021,Karnataka,29,Haveri,540,Southern Region,Urban,29,395,1399
+4891,2021,Karnataka,29,Kodagu,541,Southern Region,Rural,105,743,2965
+4892,2021,Karnataka,29,Kodagu,541,Southern Region,Semi-urban,53,447,3092
+4893,2021,Karnataka,29,Kolar,542,Southern Region,Rural,100,1133,2481
+4894,2021,Karnataka,29,Kolar,542,Southern Region,Semi-urban,50,663,1931
+4895,2021,Karnataka,29,Kolar,542,Southern Region,Urban,43,598,3137
+4896,2021,Karnataka,29,Koppal,543,Southern Region,Rural,71,1075,1398
+4897,2021,Karnataka,29,Koppal,543,Southern Region,Semi-urban,64,908,2795
+4898,2021,Karnataka,29,Koppal,543,Southern Region,Urban,27,324,1003
+4899,2021,Karnataka,29,Mandya,544,Southern Region,Rural,148,1582,2763
+4900,2021,Karnataka,29,Mandya,544,Southern Region,Semi-urban,73,1022,2341
+4901,2021,Karnataka,29,Mandya,544,Southern Region,Urban,46,496,2664
+4902,2021,Karnataka,29,Mysuru,545,Southern Region,Rural,168,1913,3346
+4903,2021,Karnataka,29,Mysuru,545,Southern Region,Semi-urban,92,1293,2843
+4904,2021,Karnataka,29,Mysuru,545,Southern Region,Urban,317,3461,35273
+4905,2021,Karnataka,29,Raichur,546,Southern Region,Rural,74,1022,824
+4906,2021,Karnataka,29,Raichur,546,Southern Region,Semi-urban,95,1505,3432
+4907,2021,Karnataka,29,Raichur,546,Southern Region,Urban,68,650,4093
+4908,2021,Karnataka,29,Ramanagara,631,Southern Region,Rural,100,1465,6893
+4909,2021,Karnataka,29,Ramanagara,631,Southern Region,Semi-urban,77,1225,3585
+4910,2021,Karnataka,29,Shivamogga,547,Southern Region,Rural,141,1274,3507
+4911,2021,Karnataka,29,Shivamogga,547,Southern Region,Semi-urban,56,820,3423
+4912,2021,Karnataka,29,Shivamogga,547,Southern Region,Urban,120,1390,9666
+4913,2021,Karnataka,29,Tumakuru,548,Southern Region,Rural,157,1989,3168
+4914,2021,Karnataka,29,Tumakuru,548,Southern Region,Semi-urban,102,1702,4195
+4915,2021,Karnataka,29,Tumakuru,548,Southern Region,Urban,84,852,6313
+4916,2021,Karnataka,29,Udupi,549,Southern Region,Rural,184,1604,8336
+4917,2021,Karnataka,29,Udupi,549,Southern Region,Semi-urban,87,907,6892
+4918,2021,Karnataka,29,Udupi,549,Southern Region,Urban,118,959,11593
+4919,2021,Karnataka,29,Uttara Kannada,550,Southern Region,Rural,111,1017,3540
+4920,2021,Karnataka,29,Uttara Kannada,550,Southern Region,Semi-urban,161,2189,11243
+4921,2021,Karnataka,29,Yadgir,635,Southern Region,Rural,44,644,660
+4922,2021,Karnataka,29,Yadgir,635,Southern Region,Semi-urban,69,1051,2407
+4959,2021,Kerala,32,Alappuzha,554,Southern Region,Rural,4,26,152
+4960,2021,Kerala,32,Alappuzha,554,Southern Region,Semi-urban,330,4161,31898
+4961,2021,Kerala,32,Alappuzha,554,Southern Region,Urban,64,723,4701
+4962,2021,Kerala,32,Ernakulam,555,Southern Region,Rural,18,142,1241
+4963,2021,Kerala,32,Ernakulam,555,Southern Region,Semi-urban,574,5818,47357
+4964,2021,Kerala,32,Ernakulam,555,Southern Region,Urban,483,3952,77949
+4965,2021,Kerala,32,Idukki,556,Southern Region,Rural,13,80,135
+4966,2021,Kerala,32,Idukki,556,Southern Region,Semi-urban,179,2100,7529
+4967,2021,Kerala,32,Kannur,557,Southern Region,Rural,20,166,783
+4968,2021,Kerala,32,Kannur,557,Southern Region,Semi-urban,387,5096,34154
+4969,2021,Kerala,32,Kasaragod,558,Southern Region,Rural,61,615,1819
+4970,2021,Kerala,32,Kasaragod,558,Southern Region,Semi-urban,130,1488,6038
+4971,2021,Kerala,32,Kasaragod,558,Southern Region,Urban,42,537,3095
+4972,2021,Kerala,32,Kollam,559,Southern Region,Rural,4,46,232
+4973,2021,Kerala,32,Kollam,559,Southern Region,Semi-urban,303,4470,26417
+4974,2021,Kerala,32,Kollam,559,Southern Region,Urban,105,1174,10053
+4975,2021,Kerala,32,Kottayam,560,Southern Region,Rural,30,211,1982
+4976,2021,Kerala,32,Kottayam,560,Southern Region,Semi-urban,508,4839,44623
+4977,2021,Kerala,32,Kozhikode,561,Southern Region,Rural,6,41,190
+4978,2021,Kerala,32,Kozhikode,561,Southern Region,Semi-urban,267,3902,15725
+4979,2021,Kerala,32,Kozhikode,561,Southern Region,Urban,218,2009,17997
+4980,2021,Kerala,32,Malappuram,562,Southern Region,Semi-urban,470,6373,28602
+4981,2021,Kerala,32,Malappuram,562,Southern Region,Urban,38,430,2149
+4982,2021,Kerala,32,Palakkad,563,Southern Region,Rural,35,271,904
+4983,2021,Kerala,32,Palakkad,563,Southern Region,Semi-urban,365,4523,18106
+4984,2021,Kerala,32,Palakkad,563,Southern Region,Urban,101,981,10120
+4985,2021,Kerala,32,Pathanamthitta,564,Southern Region,Rural,9,56,753
+4986,2021,Kerala,32,Pathanamthitta,564,Southern Region,Semi-urban,381,3774,47783
+4987,2021,Kerala,32,Thiruvananthapuram,565,Southern Region,Rural,7,93,228
+4988,2021,Kerala,32,Thiruvananthapuram,565,Southern Region,Semi-urban,355,4781,21075
+4989,2021,Kerala,32,Thiruvananthapuram,565,Southern Region,Urban,422,3858,67563
+4990,2021,Kerala,32,Thrissur,566,Southern Region,Rural,152,1179,6759
+4991,2021,Kerala,32,Thrissur,566,Southern Region,Semi-urban,451,5219,40503
+4992,2021,Kerala,32,Thrissur,566,Southern Region,Urban,188,1941,24637
+4993,2021,Kerala,32,Wayanad,567,Southern Region,Rural,7,50,102
+4994,2021,Kerala,32,Wayanad,567,Southern Region,Semi-urban,141,1494,4274
+5147,2021,Madhya Pradesh,23,Agar Malwa,667,Central Region,Semi-urban,34,665,914
+5148,2021,Madhya Pradesh,23,Alirajpur,639,Central Region,Rural,15,339,325
+5149,2021,Madhya Pradesh,23,Alirajpur,639,Central Region,Semi-urban,19,540,947
+5150,2021,Madhya Pradesh,23,Anuppur,390,Central Region,Rural,28,570,1436
+5151,2021,Madhya Pradesh,23,Anuppur,390,Central Region,Semi-urban,30,536,2674
+5152,2021,Madhya Pradesh,23,Ashoknagar,391,Central Region,Rural,27,347,369
+5153,2021,Madhya Pradesh,23,Ashoknagar,391,Central Region,Semi-urban,45,727,1727
+5154,2021,Madhya Pradesh,23,Balaghat,392,Central Region,Rural,60,1283,1569
+5155,2021,Madhya Pradesh,23,Balaghat,392,Central Region,Semi-urban,49,1150,3330
+5156,2021,Madhya Pradesh,23,Barwani,393,Central Region,Rural,32,611,589
+5157,2021,Madhya Pradesh,23,Barwani,393,Central Region,Semi-urban,71,1147,2484
+5158,2021,Madhya Pradesh,23,Betul,394,Central Region,Rural,64,1171,2429
+5159,2021,Madhya Pradesh,23,Betul,394,Central Region,Semi-urban,42,650,2327
+5160,2021,Madhya Pradesh,23,Betul,394,Central Region,Urban,42,472,2373
+5161,2021,Madhya Pradesh,23,Bhind,395,Central Region,Rural,26,362,497
+5162,2021,Madhya Pradesh,23,Bhind,395,Central Region,Semi-urban,32,876,1601
+5163,2021,Madhya Pradesh,23,Bhind,395,Central Region,Urban,21,555,1968
+5164,2021,Madhya Pradesh,23,Bhopal,396,Central Region,Rural,55,466,878
+5165,2021,Madhya Pradesh,23,Bhopal,396,Central Region,Semi-urban,8,164,296
+5166,2021,Madhya Pradesh,23,Bhopal,396,Central Region,Metropolitan,509,5618,91414
+5167,2021,Madhya Pradesh,23,Burhanpur,397,Central Region,Rural,22,310,457
+5168,2021,Madhya Pradesh,23,Burhanpur,397,Central Region,Semi-urban,10,171,605
+5169,2021,Madhya Pradesh,23,Burhanpur,397,Central Region,Urban,32,502,1906
+5170,2021,Madhya Pradesh,23,Chhatarpur,398,Central Region,Rural,48,457,909
+5171,2021,Madhya Pradesh,23,Chhatarpur,398,Central Region,Semi-urban,43,1433,2830
+5172,2021,Madhya Pradesh,23,Chhatarpur,398,Central Region,Urban,36,605,2943
+5173,2021,Madhya Pradesh,23,Chhindwara,399,Central Region,Rural,87,1304,2613
+5174,2021,Madhya Pradesh,23,Chhindwara,399,Central Region,Semi-urban,69,1345,3517
+5175,2021,Madhya Pradesh,23,Chhindwara,399,Central Region,Urban,54,722,3653
+5176,2021,Madhya Pradesh,23,Damoh,400,Central Region,Rural,41,810,836
+5177,2021,Madhya Pradesh,23,Damoh,400,Central Region,Semi-urban,14,510,753
+5178,2021,Madhya Pradesh,23,Damoh,400,Central Region,Urban,27,525,2044
+5179,2021,Madhya Pradesh,23,Datia,401,Central Region,Rural,24,295,388
+5180,2021,Madhya Pradesh,23,Datia,401,Central Region,Semi-urban,12,312,611
+5181,2021,Madhya Pradesh,23,Datia,401,Central Region,Urban,23,368,1447
+5182,2021,Madhya Pradesh,23,Dewas,402,Central Region,Rural,65,905,1248
+5183,2021,Madhya Pradesh,23,Dewas,402,Central Region,Semi-urban,44,848,1475
+5184,2021,Madhya Pradesh,23,Dewas,402,Central Region,Urban,51,749,3497
+5185,2021,Madhya Pradesh,23,Dhar,403,Central Region,Rural,117,1591,2459
+5186,2021,Madhya Pradesh,23,Dhar,403,Central Region,Semi-urban,98,1549,4106
+5187,2021,Madhya Pradesh,23,Dhar,403,Central Region,Urban,28,427,1767
+5188,2021,Madhya Pradesh,23,Dindori,404,Central Region,Rural,17,520,459
+5189,2021,Madhya Pradesh,23,Dindori,404,Central Region,Semi-urban,24,451,835
+5190,2021,Madhya Pradesh,23,East Nimar,405,Central Region,Rural,57,1044,1123
+5191,2021,Madhya Pradesh,23,East Nimar,405,Central Region,Semi-urban,18,259,375
+5192,2021,Madhya Pradesh,23,East Nimar,405,Central Region,Urban,46,574,2967
+5193,2021,Madhya Pradesh,23,Guna,406,Central Region,Rural,39,503,562
+5194,2021,Madhya Pradesh,23,Guna,406,Central Region,Semi-urban,25,615,900
+5195,2021,Madhya Pradesh,23,Guna,406,Central Region,Urban,33,582,2672
+5196,2021,Madhya Pradesh,23,Gwalior,407,Central Region,Rural,45,578,1143
+5197,2021,Madhya Pradesh,23,Gwalior,407,Central Region,Semi-urban,37,585,1424
+5198,2021,Madhya Pradesh,23,Gwalior,407,Central Region,Metropolitan,197,2638,22575
+5199,2021,Madhya Pradesh,23,Harda,408,Central Region,Rural,34,227,366
+5200,2021,Madhya Pradesh,23,Harda,408,Central Region,Semi-urban,48,609,1958
+5201,2021,Madhya Pradesh,23,Hoshangabad,409,Central Region,Rural,68,587,990
+5202,2021,Madhya Pradesh,23,Hoshangabad,409,Central Region,Semi-urban,94,1277,4430
+5203,2021,Madhya Pradesh,23,Hoshangabad,409,Central Region,Urban,45,458,2348
+5204,2021,Madhya Pradesh,23,Indore,410,Central Region,Rural,89,714,2510
+5205,2021,Madhya Pradesh,23,Indore,410,Central Region,Semi-urban,58,577,2137
+5206,2021,Madhya Pradesh,23,Indore,410,Central Region,Urban,24,337,2119
+5207,2021,Madhya Pradesh,23,Indore,410,Central Region,Metropolitan,561,6351,63749
+5208,2021,Madhya Pradesh,23,Jabalpur,411,Central Region,Rural,61,954,1797
+5209,2021,Madhya Pradesh,23,Jabalpur,411,Central Region,Semi-urban,49,790,1841
+5210,2021,Madhya Pradesh,23,Jabalpur,411,Central Region,Metropolitan,245,2945,28046
+5211,2021,Madhya Pradesh,23,Jhabua,412,Central Region,Rural,25,493,404
+5212,2021,Madhya Pradesh,23,Jhabua,412,Central Region,Semi-urban,40,972,1702
+5213,2021,Madhya Pradesh,23,Katni,413,Central Region,Rural,51,1110,2126
+5214,2021,Madhya Pradesh,23,Katni,413,Central Region,Semi-urban,7,185,420
+5215,2021,Madhya Pradesh,23,Katni,413,Central Region,Urban,54,630,3717
+5216,2021,Madhya Pradesh,23,Mandla,415,Central Region,Rural,33,689,931
+5217,2021,Madhya Pradesh,23,Mandla,415,Central Region,Semi-urban,43,737,2389
+5218,2021,Madhya Pradesh,23,Mandsaur,416,Central Region,Rural,42,544,727
+5219,2021,Madhya Pradesh,23,Mandsaur,416,Central Region,Semi-urban,43,819,1311
+5220,2021,Madhya Pradesh,23,Mandsaur,416,Central Region,Urban,42,638,2672
+5221,2021,Madhya Pradesh,23,Morena,417,Central Region,Rural,27,440,380
+5222,2021,Madhya Pradesh,23,Morena,417,Central Region,Semi-urban,39,1176,2081
+5223,2021,Madhya Pradesh,23,Morena,417,Central Region,Urban,25,588,2303
+5224,2021,Madhya Pradesh,23,Narsinghpur,418,Central Region,Rural,48,678,1088
+5225,2021,Madhya Pradesh,23,Narsinghpur,418,Central Region,Semi-urban,81,1038,3384
+5226,2021,Madhya Pradesh,23,Neemuch,419,Central Region,Rural,32,361,747
+5227,2021,Madhya Pradesh,23,Neemuch,419,Central Region,Semi-urban,25,523,893
+5228,2021,Madhya Pradesh,23,Neemuch,419,Central Region,Urban,34,437,2086
+5229,2021,Madhya Pradesh,23,Niwari,722,Central Region,Rural,14,196,336
+5230,2021,Madhya Pradesh,23,Niwari,722,Central Region,Semi-urban,14,288,853
+5231,2021,Madhya Pradesh,23,Panna,420,Central Region,Rural,31,631,741
+5232,2021,Madhya Pradesh,23,Panna,420,Central Region,Semi-urban,34,806,1988
+5233,2021,Madhya Pradesh,23,Raisen,421,Central Region,Rural,54,588,732
+5234,2021,Madhya Pradesh,23,Raisen,421,Central Region,Semi-urban,99,1424,3060
+5235,2021,Madhya Pradesh,23,Rajgarh,422,Central Region,Rural,47,799,786
+5236,2021,Madhya Pradesh,23,Rajgarh,422,Central Region,Semi-urban,81,1526,2683
+5237,2021,Madhya Pradesh,23,Ratlam,423,Central Region,Rural,57,751,794
+5238,2021,Madhya Pradesh,23,Ratlam,423,Central Region,Semi-urban,38,777,1384
+5239,2021,Madhya Pradesh,23,Ratlam,423,Central Region,Urban,67,852,4513
+5240,2021,Madhya Pradesh,23,Rewa,424,Central Region,Rural,69,1283,2677
+5241,2021,Madhya Pradesh,23,Rewa,424,Central Region,Semi-urban,37,999,2338
+5242,2021,Madhya Pradesh,23,Rewa,424,Central Region,Urban,69,1019,6951
+5243,2021,Madhya Pradesh,23,Sagar,425,Central Region,Rural,65,995,1485
+5244,2021,Madhya Pradesh,23,Sagar,425,Central Region,Semi-urban,84,1781,3538
+5245,2021,Madhya Pradesh,23,Sagar,425,Central Region,Urban,72,1049,6926
+5246,2021,Madhya Pradesh,23,Satna,426,Central Region,Rural,88,1279,2466
+5247,2021,Madhya Pradesh,23,Satna,426,Central Region,Semi-urban,48,988,2992
+5248,2021,Madhya Pradesh,23,Satna,426,Central Region,Urban,61,840,5560
+5249,2021,Madhya Pradesh,23,Sehore,427,Central Region,Rural,67,758,928
+5250,2021,Madhya Pradesh,23,Sehore,427,Central Region,Semi-urban,58,823,1613
+5251,2021,Madhya Pradesh,23,Sehore,427,Central Region,Urban,36,432,1640
+5252,2021,Madhya Pradesh,23,Seoni,428,Central Region,Rural,48,1020,1349
+5253,2021,Madhya Pradesh,23,Seoni,428,Central Region,Semi-urban,12,395,635
+5254,2021,Madhya Pradesh,23,Seoni,428,Central Region,Urban,30,464,2132
+5255,2021,Madhya Pradesh,23,Shahdol,429,Central Region,Rural,25,586,823
+5256,2021,Madhya Pradesh,23,Shahdol,429,Central Region,Semi-urban,56,1061,4136
+5257,2021,Madhya Pradesh,23,Shajapur,430,Central Region,Rural,47,624,761
+5258,2021,Madhya Pradesh,23,Shajapur,430,Central Region,Semi-urban,53,840,1863
+5259,2021,Madhya Pradesh,23,Sheopur,431,Central Region,Rural,9,193,160
+5260,2021,Madhya Pradesh,23,Sheopur,431,Central Region,Semi-urban,20,616,986
+5261,2021,Madhya Pradesh,23,Shivpuri,432,Central Region,Rural,39,790,798
+5262,2021,Madhya Pradesh,23,Shivpuri,432,Central Region,Semi-urban,26,859,1349
+5263,2021,Madhya Pradesh,23,Shivpuri,432,Central Region,Urban,32,539,2435
+5264,2021,Madhya Pradesh,23,Sidhi,433,Central Region,Rural,32,642,1062
+5265,2021,Madhya Pradesh,23,Sidhi,433,Central Region,Semi-urban,32,833,2432
+5266,2021,Madhya Pradesh,23,Singrauli,638,Central Region,Rural,39,979,1697
+5267,2021,Madhya Pradesh,23,Singrauli,638,Central Region,Urban,39,552,8040
+5268,2021,Madhya Pradesh,23,Tikamgarh,434,Central Region,Rural,29,523,715
+5269,2021,Madhya Pradesh,23,Tikamgarh,434,Central Region,Semi-urban,34,807,2368
+5270,2021,Madhya Pradesh,23,Ujjain,435,Central Region,Rural,67,920,1176
+5271,2021,Madhya Pradesh,23,Ujjain,435,Central Region,Semi-urban,46,817,1538
+5272,2021,Madhya Pradesh,23,Ujjain,435,Central Region,Urban,132,1730,10294
+5273,2021,Madhya Pradesh,23,Umaria,436,Central Region,Rural,16,414,941
+5274,2021,Madhya Pradesh,23,Umaria,436,Central Region,Semi-urban,23,467,1760
+5275,2021,Madhya Pradesh,23,Vidisha,437,Central Region,Rural,51,619,700
+5276,2021,Madhya Pradesh,23,Vidisha,437,Central Region,Semi-urban,45,862,1557
+5277,2021,Madhya Pradesh,23,Vidisha,437,Central Region,Urban,41,497,2281
+5278,2021,Madhya Pradesh,23,Khargone,414,Central Region,Rural,76,1156,1215
+5279,2021,Madhya Pradesh,23,Khargone,414,Central Region,Semi-urban,55,1015,2211
+5395,2021,Maharashtra,27,Beed,470,Western Region,Semi-urban,58,1513,4735
+5396,2021,Maharashtra,27,Beed,470,Western Region,Urban,32,550,3149
+5397,2021,Maharashtra,27,Buldhana,472,Western Region,Rural,70,946,1473
+5398,2021,Maharashtra,27,Buldhana,472,Western Region,Semi-urban,130,2360,9674
+5399,2021,Maharashtra,27,Chandrapur,473,Western Region,Rural,86,1089,2702
+5400,2021,Maharashtra,27,Chandrapur,473,Western Region,Semi-urban,84,1212,5736
+5401,2021,Maharashtra,27,Chandrapur,473,Western Region,Urban,51,667,6382
+5402,2021,Maharashtra,27,Dhule,474,Western Region,Rural,46,907,1342
+5403,2021,Maharashtra,27,Dhule,474,Western Region,Semi-urban,40,942,2622
+5404,2021,Maharashtra,27,Dhule,474,Western Region,Urban,53,802,5756
+5405,2021,Maharashtra,27,Gadchiroli,475,Western Region,Rural,37,558,871
+5406,2021,Maharashtra,27,Gadchiroli,475,Western Region,Semi-urban,35,554,3237
+5407,2021,Maharashtra,27,Gondia,476,Western Region,Rural,54,893,1421
+5408,2021,Maharashtra,27,Gondia,476,Western Region,Semi-urban,21,447,1009
+5409,2021,Maharashtra,27,Gondia,476,Western Region,Urban,31,520,3313
+5410,2021,Maharashtra,27,Hingoli,477,Western Region,Rural,27,442,615
+5411,2021,Maharashtra,27,Hingoli,477,Western Region,Semi-urban,47,957,2534
+5412,2021,Maharashtra,27,Jalgaon,478,Western Region,Rural,115,1348,2660
+5413,2021,Maharashtra,27,Jalgaon,478,Western Region,Semi-urban,165,2710,7812
+5414,2021,Maharashtra,27,Jalgaon,478,Western Region,Urban,102,1260,10344
+5415,2021,Maharashtra,27,Jalna,479,Western Region,Rural,43,851,966
+5416,2021,Maharashtra,27,Jalna,479,Western Region,Semi-urban,38,914,1566
+5417,2021,Maharashtra,27,Jalna,479,Western Region,Urban,38,627,3327
+5418,2021,Maharashtra,27,Kolhapur,480,Western Region,Rural,175,1813,3847
+5419,2021,Maharashtra,27,Kolhapur,480,Western Region,Semi-urban,130,1729,5401
+5420,2021,Maharashtra,27,Kolhapur,480,Western Region,Urban,179,2021,16158
+5421,2021,Maharashtra,27,Latur,481,Western Region,Rural,62,818,1447
+5422,2021,Maharashtra,27,Latur,481,Western Region,Semi-urban,46,990,2525
+5423,2021,Maharashtra,27,Latur,481,Western Region,Urban,74,1122,6593
+5424,2021,Maharashtra,27,Mumbai,482,Western Region,Metropolitan,1104,17672,1338896
+5425,2021,Maharashtra,27,Mumbai Suburban,483,Western Region,Metropolitan,1480,51073,732672
+5426,2021,Maharashtra,27,Nagpur,484,Western Region,Rural,159,1581,6000
+5427,2021,Maharashtra,27,Nagpur,484,Western Region,Semi-urban,140,1710,7459
+5428,2021,Maharashtra,27,Nagpur,484,Western Region,Metropolitan,473,5775,76909
+5429,2021,Maharashtra,27,Nanded,485,Western Region,Rural,78,1249,1906
+5430,2021,Maharashtra,27,Nanded,485,Western Region,Semi-urban,61,1692,3600
+5431,2021,Maharashtra,27,Nanded,485,Western Region,Urban,74,1105,7709
+5432,2021,Maharashtra,27,Nandurbar,486,Western Region,Rural,36,938,823
+5433,2021,Maharashtra,27,Nandurbar,486,Western Region,Semi-urban,23,697,1875
+5434,2021,Maharashtra,27,Nandurbar,486,Western Region,Urban,19,356,2134
+5435,2021,Maharashtra,27,Nashik,487,Western Region,Rural,191,2347,6503
+5436,2021,Maharashtra,27,Nashik,487,Western Region,Semi-urban,192,2723,12522
+5437,2021,Maharashtra,27,Nashik,487,Western Region,Urban,25,611,2235
+5438,2021,Maharashtra,27,Nashik,487,Western Region,Metropolitan,257,3139,36382
+5439,2021,Maharashtra,27,Osmanabad,488,Western Region,Rural,46,697,1478
+5440,2021,Maharashtra,27,Osmanabad,488,Western Region,Semi-urban,50,1004,3410
+5441,2021,Maharashtra,27,Osmanabad,488,Western Region,Urban,25,437,2444
+5442,2021,Maharashtra,27,Palghar,665,Western Region,Rural,71,1053,2656
+5443,2021,Maharashtra,27,Palghar,665,Western Region,Semi-urban,79,1257,6792
+5444,2021,Maharashtra,27,Palghar,665,Western Region,Metropolitan,158,2040,17002
+5445,2021,Maharashtra,27,Parbhani,489,Western Region,Rural,36,487,753
+5446,2021,Maharashtra,27,Parbhani,489,Western Region,Semi-urban,41,1087,2150
+5447,2021,Maharashtra,27,Parbhani,489,Western Region,Urban,36,584,3288
+5448,2021,Maharashtra,27,Pune,490,Western Region,Rural,276,2360,11293
+5449,2021,Maharashtra,27,Pune,490,Western Region,Semi-urban,333,4382,26828
+5450,2021,Maharashtra,27,Pune,490,Western Region,Metropolitan,1118,15456,304459
+5451,2021,Maharashtra,27,Raigad,491,Western Region,Rural,196,1747,11884
+5452,2021,Maharashtra,27,Raigad,491,Western Region,Semi-urban,166,1784,14975
+5453,2021,Maharashtra,27,Raigad,491,Western Region,Urban,104,1081,15853
+5454,2021,Maharashtra,27,Ratnagiri,492,Western Region,Rural,147,1461,4367
+5455,2021,Maharashtra,27,Ratnagiri,492,Western Region,Semi-urban,108,1143,6868
+5456,2021,Maharashtra,27,Sangli,493,Western Region,Rural,108,1037,2340
+5457,2021,Maharashtra,27,Sangli,493,Western Region,Semi-urban,110,1609,5481
+5458,2021,Maharashtra,27,Sangli,493,Western Region,Urban,87,1207,9073
+5459,2021,Maharashtra,27,Satara,494,Western Region,Rural,142,1464,3752
+5460,2021,Maharashtra,27,Satara,494,Western Region,Semi-urban,131,1835,7690
+5461,2021,Maharashtra,27,Satara,494,Western Region,Urban,59,613,4713
+5462,2021,Maharashtra,27,Sindhudurg,495,Western Region,Rural,99,843,3629
+5463,2021,Maharashtra,27,Sindhudurg,495,Western Region,Semi-urban,60,615,3373
+5464,2021,Maharashtra,27,Solapur,496,Western Region,Rural,145,1753,3707
+5465,2021,Maharashtra,27,Solapur,496,Western Region,Semi-urban,132,2063,6966
+5466,2021,Maharashtra,27,Solapur,496,Western Region,Urban,128,2062,11416
+5467,2021,Maharashtra,27,Thane,497,Western Region,Rural,58,587,1723
+5468,2021,Maharashtra,27,Thane,497,Western Region,Semi-urban,44,499,2134
+5469,2021,Maharashtra,27,Thane,497,Western Region,Urban,225,3359,29986
+5470,2021,Maharashtra,27,Thane,497,Western Region,Metropolitan,804,10077,160241
+5471,2021,Maharashtra,27,Wardha,498,Western Region,Rural,62,972,1933
+5472,2021,Maharashtra,27,Wardha,498,Western Region,Semi-urban,47,586,2428
+5473,2021,Maharashtra,27,Wardha,498,Western Region,Urban,58,766,4923
+5474,2021,Maharashtra,27,Washim,499,Western Region,Rural,30,404,556
+5475,2021,Maharashtra,27,Washim,499,Western Region,Semi-urban,59,918,2601
+5476,2021,Maharashtra,27,Yavatmal,500,Western Region,Rural,78,1185,1917
+5477,2021,Maharashtra,27,Yavatmal,500,Western Region,Semi-urban,96,1714,5025
+5500,2021,Manipur,14,Bishnupur,252,North Eastern Region,Rural,3,37,13
+5501,2021,Manipur,14,Bishnupur,252,North Eastern Region,Semi-urban,13,213,245
+5502,2021,Manipur,14,Chandel,253,North Eastern Region,Rural,4,46,132
+5503,2021,Manipur,14,Churachandpur,254,North Eastern Region,Rural,15,281,808
+5504,2021,Manipur,14,Imphal East,255,North Eastern Region,Rural,21,278,782
+5505,2021,Manipur,14,Imphal East,255,North Eastern Region,Urban,10,165,1591
+5506,2021,Manipur,14,Imphal West,256,North Eastern Region,Rural,10,126,482
+5507,2021,Manipur,14,Imphal West,256,North Eastern Region,Semi-urban,3,79,230
+5508,2021,Manipur,14,Imphal West,256,North Eastern Region,Urban,55,743,6226
+5509,2021,Manipur,14,Jiribam,713,North Eastern Region,Rural,3,47,67
+5510,2021,Manipur,14,Kakching,711,North Eastern Region,Semi-urban,7,169,128
+5511,2021,Manipur,14,Kangpokpi,712,North Eastern Region,Rural,5,88,213
+5512,2021,Manipur,14,Noney,714,North Eastern Region,Rural,4,25,25
+5513,2021,Manipur,14,Senapati,257,North Eastern Region,Rural,15,178,440
+5514,2021,Manipur,14,Tamenglong,258,North Eastern Region,Semi-urban,3,49,132
+5515,2021,Manipur,14,Tengnoupal,716,North Eastern Region,Rural,3,29,48
+5516,2021,Manipur,14,Tengnoupal,716,North Eastern Region,Semi-urban,4,26,64
+5517,2021,Manipur,14,Thoubal,259,North Eastern Region,Rural,6,102,61
+7636,2020,Chhattisgarh,22,Durg,378,Central Region,Rural,61,614,1314
+7637,2020,Chhattisgarh,22,Durg,378,Central Region,Semi-urban,29,396,1293
+7638,2020,Chhattisgarh,22,Durg,378,Central Region,Urban,178,2349,17989
+7639,2020,Chhattisgarh,22,Gariyaband,645,Central Region,Rural,23,505,447
+7640,2020,Chhattisgarh,22,Gariyaband,645,Central Region,Semi-urban,24,304,703
+7641,2020,Chhattisgarh,22,Gaurella Pendra Marwahi,734,Central Region,Rural,7,187,227
+7642,2020,Chhattisgarh,22,Gaurella Pendra Marwahi,734,Central Region,Semi-urban,12,286,545
+7643,2020,Chhattisgarh,22,Janjgir-Champa,379,Central Region,Rural,76,1418,2115
+7644,2020,Chhattisgarh,22,Janjgir-Champa,379,Central Region,Semi-urban,64,969,3371
+7645,2020,Chhattisgarh,22,Jashpur,380,Central Region,Rural,35,614,955
+7646,2020,Chhattisgarh,22,Jashpur,380,Central Region,Semi-urban,34,623,1730
+7647,2020,Chhattisgarh,22,Kabirdham,382,Central Region,Rural,26,555,427
+7648,2020,Chhattisgarh,22,Kabirdham,382,Central Region,Semi-urban,35,859,1289
+7649,2020,Chhattisgarh,22,Kondagaon,643,Central Region,Rural,22,391,346
+7650,2020,Chhattisgarh,22,Kondagaon,643,Central Region,Semi-urban,22,364,1101
+7651,2020,Chhattisgarh,22,Korba,383,Central Region,Rural,39,699,1561
+7652,2020,Chhattisgarh,22,Korba,383,Central Region,Semi-urban,17,340,1387
+7653,2020,Chhattisgarh,22,Korba,383,Central Region,Urban,57,858,5497
+7654,2020,Chhattisgarh,22,Korea,384,Central Region,Rural,29,478,939
+7655,2020,Chhattisgarh,22,Korea,384,Central Region,Semi-urban,48,549,3547
+7656,2020,Chhattisgarh,22,Mahasamund,385,Central Region,Rural,45,737,719
+7657,2020,Chhattisgarh,22,Mahasamund,385,Central Region,Semi-urban,64,954,1978
+7658,2020,Chhattisgarh,22,Mungeli,647,Central Region,Rural,18,457,451
+7659,2020,Chhattisgarh,22,Mungeli,647,Central Region,Semi-urban,23,502,808
+7660,2020,Chhattisgarh,22,Narayanpur,637,Central Region,Rural,7,47,47
+7661,2020,Chhattisgarh,22,Narayanpur,637,Central Region,Semi-urban,9,121,467
+7662,2020,Chhattisgarh,22,Raigarh,386,Central Region,Rural,71,1173,2298
+7663,2020,Chhattisgarh,22,Raigarh,386,Central Region,Semi-urban,35,603,1626
+7664,2020,Chhattisgarh,22,Raigarh,386,Central Region,Urban,50,620,3738
+7665,2020,Chhattisgarh,22,Raipur,387,Central Region,Rural,77,804,2630
+7666,2020,Chhattisgarh,22,Raipur,387,Central Region,Semi-urban,61,778,2306
+7667,2020,Chhattisgarh,22,Raipur,387,Central Region,Metropolitan,348,2955,41271
+7668,2020,Chhattisgarh,22,Rajnandgaon,388,Central Region,Rural,76,1207,1359
+7669,2020,Chhattisgarh,22,Rajnandgaon,388,Central Region,Semi-urban,29,611,1221
+7670,2020,Chhattisgarh,22,Rajnandgaon,388,Central Region,Urban,40,615,2925
+7671,2020,Chhattisgarh,22,Sukma,642,Central Region,Rural,18,168,242
+7672,2020,Chhattisgarh,22,Sukma,642,Central Region,Semi-urban,4,87,453
+7673,2020,Chhattisgarh,22,Surajpur,648,Central Region,Rural,51,879,1555
+7674,2020,Chhattisgarh,22,Surajpur,648,Central Region,Semi-urban,20,232,1605
+7675,2020,Chhattisgarh,22,Surguja,389,Central Region,Rural,48,992,1513
+7676,2020,Chhattisgarh,22,Surguja,389,Central Region,Urban,41,505,3357
+7677,2020,Chhattisgarh,22,Kanker,381,Central Region,Rural,37,748,1103
+7678,2020,Chhattisgarh,22,Kanker,381,Central Region,Semi-urban,31,480,1285
+7708,2020,Delhi,7,Central,77,Northern Region,Metropolitan,453,5918,199360
+7710,2020,Delhi,7,East,78,Northern Region,Metropolitan,229,3630,49063
+7712,2020,Delhi,7,New Delhi,79,Northern Region,Semi-urban,11,165,1312
+7713,2020,Delhi,7,New Delhi,79,Northern Region,Metropolitan,738,8532,437482
+7714,2020,Delhi,7,North,80,Northern Region,Rural,22,230,2276
+7715,2020,Delhi,7,North,80,Northern Region,Semi-urban,21,299,1689
+7716,2020,Delhi,7,North,80,Northern Region,Metropolitan,215,3013,41406
+7717,2020,Delhi,7,North East,81,Northern Region,Rural,8,195,813
+7718,2020,Delhi,7,North East,81,Northern Region,Urban,10,227,1701
+7719,2020,Delhi,7,North East,81,Northern Region,Metropolitan,53,1261,7210
+7720,2020,Delhi,7,North West,82,Northern Region,Rural,13,138,795
+7721,2020,Delhi,7,North West,82,Northern Region,Semi-urban,19,317,2107
+7722,2020,Delhi,7,North West,82,Northern Region,Urban,21,356,3274
+7723,2020,Delhi,7,North West,82,Northern Region,Metropolitan,305,3947,50236
+7724,2020,Delhi,7,Shahdara,671,Northern Region,Metropolitan,124,2464,24049
+7725,2020,Delhi,7,South,83,Northern Region,Rural,8,157,1237
+7726,2020,Delhi,7,South,83,Northern Region,Semi-urban,20,327,3060
+7727,2020,Delhi,7,South,83,Northern Region,Metropolitan,363,4804,136736
+7728,2020,Delhi,7,South East,670,Northern Region,Semi-urban,13,250,1881
+7729,2020,Delhi,7,South East,670,Northern Region,Metropolitan,298,4538,91793
+7730,2020,Delhi,7,South West,84,Northern Region,Rural,27,287,1887
+7731,2020,Delhi,7,South West,84,Northern Region,Semi-urban,27,455,6887
+7732,2020,Delhi,7,South West,84,Northern Region,Metropolitan,281,3880,69011
+7733,2020,Delhi,7,West,85,Northern Region,Rural,5,68,636
+7734,2020,Delhi,7,West,85,Northern Region,Semi-urban,7,91,520
+7735,2020,Delhi,7,West,85,Northern Region,Metropolitan,514,7374,93159
+7740,2020,Goa,30,North Goa,551,Western Region,Rural,162,1184,10266
+7741,2020,Goa,30,North Goa,551,Western Region,Semi-urban,247,2122,33825
+7742,2020,Goa,30,South Goa,552,Western Region,Rural,113,819,7858
+7836,2020,Gujarat,24,Ahmadabad,438,Western Region,Rural,90,687,2187
+7837,2020,Gujarat,24,Ahmadabad,438,Western Region,Semi-urban,137,1375,7564
+7838,2020,Gujarat,24,Ahmadabad,438,Western Region,Metropolitan,1193,13985,196020
+7839,2020,Gujarat,24,Amreli,439,Western Region,Rural,70,615,1528
+7840,2020,Gujarat,24,Amreli,439,Western Region,Semi-urban,59,868,3199
+7841,2020,Gujarat,24,Amreli,439,Western Region,Urban,36,339,2136
+7842,2020,Gujarat,24,Anand,440,Western Region,Rural,125,1237,5128
+7843,2020,Gujarat,24,Anand,440,Western Region,Semi-urban,169,2165,13293
+7844,2020,Gujarat,24,Anand,440,Western Region,Urban,74,817,12484
+7845,2020,Gujarat,24,Arvalli,672,Western Region,Rural,51,707,1024
+7846,2020,Gujarat,24,Arvalli,672,Western Region,Semi-urban,54,796,2386
+7847,2020,Gujarat,24,Banas Kantha,441,Western Region,Rural,89,1266,2025
+7848,2020,Gujarat,24,Banas Kantha,441,Western Region,Semi-urban,53,1350,2103
+7849,2020,Gujarat,24,Banas Kantha,441,Western Region,Urban,72,922,4391
+7850,2020,Gujarat,24,Bharuch,442,Western Region,Rural,101,961,3232
+7851,2020,Gujarat,24,Bharuch,442,Western Region,Semi-urban,108,1287,8056
+7852,2020,Gujarat,24,Bharuch,442,Western Region,Urban,68,839,8072
+7853,2020,Gujarat,24,Bhavnagar,443,Western Region,Rural,77,893,1846
+7854,2020,Gujarat,24,Bhavnagar,443,Western Region,Semi-urban,63,1043,3280
+7855,2020,Gujarat,24,Bhavnagar,443,Western Region,Urban,107,1457,11721
+7856,2020,Gujarat,24,Botad,676,Western Region,Rural,20,165,288
+7857,2020,Gujarat,24,Botad,676,Western Region,Semi-urban,18,352,715
+7858,2020,Gujarat,24,Botad,676,Western Region,Urban,18,277,1021
+7859,2020,Gujarat,24,Chhotaudepur,668,Western Region,Rural,56,828,1430
+7860,2020,Gujarat,24,Chhotaudepur,668,Western Region,Semi-urban,33,303,1039
+7861,2020,Gujarat,24,Dang,444,Western Region,Rural,7,137,224
+7862,2020,Gujarat,24,Dang,444,Western Region,Semi-urban,7,184,477
+7863,2020,Gujarat,24,Devbhumi Dwarka,674,Western Region,Rural,29,274,1035
+7864,2020,Gujarat,24,Devbhumi Dwarka,674,Western Region,Semi-urban,56,763,3703
+7865,2020,Gujarat,24,Dohad,445,Western Region,Rural,53,1157,939
+7866,2020,Gujarat,24,Dohad,445,Western Region,Semi-urban,31,774,1301
+7867,2020,Gujarat,24,Dohad,445,Western Region,Urban,32,538,2669
+7868,2020,Gujarat,24,Gandhinagar,446,Western Region,Rural,102,781,2806
+7869,2020,Gujarat,24,Gandhinagar,446,Western Region,Semi-urban,59,592,4304
+7870,2020,Gujarat,24,Gandhinagar,446,Western Region,Urban,144,1457,24804
+7871,2020,Gujarat,24,Gir Somnath,675,Western Region,Rural,39,487,1082
+7872,2020,Gujarat,24,Gir Somnath,675,Western Region,Semi-urban,35,629,2167
+7873,2020,Gujarat,24,Gir Somnath,675,Western Region,Urban,32,392,2342
+7874,2020,Gujarat,24,Jamnagar,447,Western Region,Rural,81,678,2610
+7875,2020,Gujarat,24,Jamnagar,447,Western Region,Semi-urban,37,441,2050
+7876,2020,Gujarat,24,Jamnagar,447,Western Region,Urban,99,1418,12402
+7877,2020,Gujarat,24,Junagadh,448,Western Region,Rural,75,623,2415
+7878,2020,Gujarat,24,Junagadh,448,Western Region,Semi-urban,63,937,4250
+7879,2020,Gujarat,24,Junagadh,448,Western Region,Urban,60,717,6288
+7880,2020,Gujarat,24,Kachchh,449,Western Region,Rural,143,1215,9812
+7881,2020,Gujarat,24,Kachchh,449,Western Region,Semi-urban,118,1377,9659
+7882,2020,Gujarat,24,Kachchh,449,Western Region,Urban,127,1392,19204
+7883,2020,Gujarat,24,Kheda,450,Western Region,Rural,112,1195,3295
+7884,2020,Gujarat,24,Kheda,450,Western Region,Semi-urban,82,1214,4078
+7885,2020,Gujarat,24,Kheda,450,Western Region,Urban,56,791,7516
+7886,2020,Gujarat,24,Mahesana,451,Western Region,Rural,138,1159,2738
+7887,2020,Gujarat,24,Mahesana,451,Western Region,Semi-urban,129,1681,7227
